@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yahsin Huang</title>
+  <icon>http://yahsin.me/images/logo.png</icon>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yahsin.me/"/>
+  <updated>2021-03-17T16:24:33.159Z</updated>
+  <id>http://yahsin.me/</id>
+  
+  <author>
+    <name>Yahsin Huang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Script I Prepared for RxC in the Wild: Social Upgrades in Colorado and Taiwan Online Panel Event Last Month</title>
+    <link href="http://yahsin.me/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/"/>
+    <id>http://yahsin.me/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/</id>
+    <published>2020-09-13T17:04:22.000Z</published>
+    <updated>2021-03-17T16:24:33.159Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/rxcwild_event_feature.png&quot;&gt;&lt;/figure&gt;
+
+&lt;p&gt;Below is the script that I prepared for my 10-minute presentation at a recent RadicalxChange online panel event. &lt;/p&gt;
+&lt;p&gt;Organized by the &lt;a href=&quot;https://www.radicalxchange.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;RadicalxChange Foundation&lt;/a&gt;, the 1-hour event, “RadicalxChange in the Wild: Social Upgrades in Colorado
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>8 Days in Palo Alto, California: Stanford Blockchain Conference, Computer History Museum, Shoreline Lake Park, Apple Infinite Loop, and More!</title>
+    <link href="http://yahsin.me/2020/08/07/8-Days-in-Palo-Alto-California/"/>
+    <id>http://yahsin.me/2020/08/07/8-Days-in-Palo-Alto-California/</id>
+    <published>2020-08-07T15:19:44.000Z</published>
+    <updated>2021-03-17T16:24:33.149Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;I haven’t been abroad since April because of COVID-19. Not too long, but somehow it feels like a lifetime. I was thinking of the U.S. recently for some reason, I don’t know why I miss my two weeks in the U.S. so much. I thought I just needed to get the story out, or I’ll never come back to it; hence never write it. I’ve got to keep writing – there’s no other way! How else would you reflect yourself?&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/2020/08/07/8-Days-in-Palo-Alto-California/ca_usa_01.jpg&quot;&gt;&lt;figcaption&gt;I
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>RadicalxChange Taipei Getting Featured as a Guest on a Blockchain Podcast for the First Time</title>
+    <link href="http://yahsin.me/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/"/>
+    <id>http://yahsin.me/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/</id>
+    <published>2020-08-04T18:03:44.000Z</published>
+    <updated>2021-03-17T16:24:33.145Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/rxc_podcast_feature_01.png&quot;&gt;&lt;figcaption&gt;RadicalxChange Taipei chapter leaders CC &amp;amp; Yahsin were featured as guests on Astro Hsu’s BlockTrend podcast.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Interview notes I prepared a day prior to the Friday (7/24) podcast interview. 以下內容是訪談前一天準備的講稿，當天錄音時並沒有照著這些預先準備的內容講，所以這篇內容單純提供給各位當背景資料參考。&lt;/p&gt;
+&lt;figure&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>What are some of the most exciting opportunities for front-end engineers unique in the blockchain space?</title>
+    <link href="http://yahsin.me/2020/07/27/Frontend-in-Blockchain/"/>
+    <id>http://yahsin.me/2020/07/27/Frontend-in-Blockchain/</id>
+    <published>2020-07-27T15:21:44.000Z</published>
+    <updated>2021-03-17T16:24:33.144Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;What are some of the most exciting opportunities for front-end engineers that are unique in the blockchain sphere? I got this question from a front-end engineer earlier today, on a Monday night (7/27). Thought it was an important question to think about. So I thought, why not ask around and seek insights from the brilliant minds in my professional network? &lt;/p&gt;
+&lt;p&gt;Here’s a collection of responses I gathered on Twitter and Facebook. Note that these responses have been slightly edited for
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cayman introduced Lodestar: Eth2 in the Web at Taipei Ethereum Meetup July Event</title>
+    <link href="http://yahsin.me/2020/07/23/Cayman-Lodestar-Taipei-Ethereum-Meetup-July-Event/"/>
+    <id>http://yahsin.me/2020/07/23/Cayman-Lodestar-Taipei-Ethereum-Meetup-July-Event/</id>
+    <published>2020-07-22T17:25:02.000Z</published>
+    <updated>2021-03-17T16:24:33.143Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/07/23/Cayman-Lodestar-Taipei-Ethereum-Meetup-July-Event/Cayman_EthCC_Paris.jpg&quot;&gt;&lt;figcaption&gt;Lodestar tech lead Cayman Nava was one of the speakers at the EthCC conference event held at Maison de la Mutualité in Paris, France in March, 2020. Photo: Yahsin Huang&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.meetup.com/Taipei-Ethereum-Meetup/events/271735761/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Taipei Ethereum Meetup&lt;/a&gt; online meetup event held on Friday (7/10) that I
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>I Ran My First Online Workshop with Bitmark at RadicalxChange Conference Last Month</title>
+    <link href="http://yahsin.me/2020/07/22/I-Ran-My-First-Online-Workshop-with-Bitmark-at-RadicalxChange-Conference-Last-Month/"/>
+    <id>http://yahsin.me/2020/07/22/I-Ran-My-First-Online-Workshop-with-Bitmark-at-RadicalxChange-Conference-Last-Month/</id>
+    <published>2020-07-21T17:48:08.000Z</published>
+    <updated>2021-03-17T16:24:33.142Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/07/22/I-Ran-My-First-Online-Workshop-with-Bitmark-at-RadicalxChange-Conference-Last-Month/rxc_workshop_banner.jpg&quot;&gt;&lt;figcaption&gt;The “Restoring Data Dignity in COVID-19: A Taiwanese Experience” online workshop was held on Saturday (6/20) at RadicalxChange Conference.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;On Saturday (6/20) last month, I ran a 1-hour data dignity &lt;a href=&quot;https://www.radicalxchange.org/2020-conference/replay/#vcWBpngNSWrc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;workshop&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>5 of the Best Lines from Bonjour Tristesse</title>
+    <link href="http://yahsin.me/2020/06/15/5-of-the-best-lines-from-bonjour-tristesse/"/>
+    <id>http://yahsin.me/2020/06/15/5-of-the-best-lines-from-bonjour-tristesse/</id>
+    <published>2020-06-15T09:25:24.000Z</published>
+    <updated>2021-03-17T16:24:33.141Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/06/15/5-of-the-best-lines-from-bonjour-tristesse/yahsin_bt_eng.jpg&quot; style=&quot;height:340px&quot;&gt;&lt;figcaption&gt;If you want to get a copy of the Irene Ash translation of Bonjour Tristesse (which is the one I have), Penguin has a &lt;a href=&quot;https://www.amazon.co.uk/Bonjour-Tristesse-Penguin-Essentials-Francoise/dp/0241951569&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;beautiful paperback&lt;/a&gt; edition.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;I read &lt;a href=&quot;https://en.wikipedia.org/wiki/Fran%C3%A7oise_Sagan&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Papers We Love Taipei First Meetup Recap</title>
+    <link href="http://yahsin.me/2020/06/14/papers-we-love-taipei-first-meetup-recap/"/>
+    <id>http://yahsin.me/2020/06/14/papers-we-love-taipei-first-meetup-recap/</id>
+    <published>2020-06-13T16:45:45.000Z</published>
+    <updated>2021-03-17T16:24:33.139Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/06/14/papers-we-love-taipei-first-meetup-recap/pwl_view.jpg&quot;&gt;&lt;figcaption&gt;On Thursday, June 11, Oskar Thorén and a few of the folks from the Ethereum community organized a local meetup event “Papers We Love Taipei” in Taipei City, Taiwan.&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;On Thursday, June 11, &lt;a href=&quot;https://twitter.com/oskarth&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Oskar Thorén&lt;/a&gt;, head of engineering at &lt;a href=&quot;https://status.im/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Status Network&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mikerah on Ethereum Access Privacy at Taipei Ethereum Meetup May Event</title>
+    <link href="http://yahsin.me/2020/06/07/TEM-May-Event-Recap/"/>
+    <id>http://yahsin.me/2020/06/07/TEM-May-Event-Recap/</id>
+    <published>2020-06-07T10:30:00.000Z</published>
+    <updated>2021-03-17T16:24:33.107Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;On Wednesday (5/27), &lt;a href=&quot;https://twitter.com/badcryptobitch&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mikerah Quintyne-Collins&lt;/a&gt;, a blockchain researcher from Toronto, Canada, gave a 30-minute talk on “Ethereum Access Privacy” at &lt;a href=&quot;https://medium.com/taipei-ethereum-meetup&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Taipei Ethereum Meetup&lt;/a&gt; online event. Watch the livestreamed event on &lt;a href=&quot;https://youtu.be/A4oNobjHr-8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;YouTube&lt;/a&gt;. Presentation &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>5 Days in Denver Colorado: ETHDenver, Buffalo, and Lots of Snow!</title>
+    <link href="http://yahsin.me/2020/06/03/EthDenver-experience/"/>
+    <id>http://yahsin.me/2020/06/03/EthDenver-experience/</id>
+    <published>2020-06-02T17:27:01.000Z</published>
+    <updated>2021-03-17T16:24:33.099Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/06/03/EthDenver-experience/yahsin_ethdenver_optictopic_ppl.jpg&quot;&gt;&lt;figcaption&gt;ETHDenver 2020 Photo: optictopic&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Pictures and some thoughts from my experience at &lt;a href=&quot;https://www.ethdenver.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ETHDenver&lt;/a&gt; in Denver, Colorado this year!&lt;/p&gt;
+&lt;h3 id=&quot;Visiting-Denver-for-the-first-time&quot;&gt;&lt;a href=&quot;#Visiting-Denver-for-the-first-time&quot; class=&quot;headerlink&quot; title=&quot;Visiting Denver for the first time&quot;&gt;&lt;/a&gt;Visiting Denver
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Highlights from First RadicalxChange Taipei Meetup</title>
+    <link href="http://yahsin.me/2020/02/02/RadicalxChange/"/>
+    <id>http://yahsin.me/2020/02/02/RadicalxChange/</id>
+    <published>2020-02-02T13:03:09.000Z</published>
+    <updated>2021-03-17T16:24:33.078Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2020/02/02/RadicalxChange/RXCevent.jpeg&quot;&gt;&lt;figcaption&gt;First meetup of RadicalxChange Taipei was held on Tuesday evening (July 16) in Taipei City, Taiwan. Photo: Chien-Te Lee&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;RadicalxChange Taipei chapter is here. On Tuesday, July 16 RadicalxChange Taipei kicked off their first event in Taipei, Taiwan. The 2.5-hour meetup drew more than 50 researchers, developers, and community leaders. Below are some highlights from the event, which was moderated by
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Crosslink Taiwan 2019 以太坊技術研討會活動圓滿成功</title>
+    <link href="http://yahsin.me/2019/11/25/crosslink-taiwan-2019-recap/"/>
+    <id>http://yahsin.me/2019/11/25/crosslink-taiwan-2019-recap/</id>
+    <published>2019-11-24T18:55:17.000Z</published>
+    <updated>2021-03-17T16:24:33.107Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;台北以太坊社群舉辦「Crosslink-Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot;&gt;&lt;a href=&quot;#台北以太坊社群舉辦「Crosslink-Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot; class=&quot;headerlink&quot; title=&quot;台北以太坊社群舉辦「Crosslink Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot;&gt;&lt;/a&gt;台北以太坊社群舉辦「Crosslink Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&lt;/h3&gt;&lt;p&gt;台灣區塊鏈界年度盛事之一的「&lt;a href=&quot;https://crosslink.taipei/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Crosslink Taiwan&lt;/a&gt;」由&lt;a href=&quot;https://www.meetup.com/Taipei-Ethereum-Meetup/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;台北以太坊社群&lt;/a&gt;（Taipei
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Highlights from Devcon Osaka Side Event “L2 and Business”</title>
+    <link href="http://yahsin.me/2019/10/29/devcon-osaka-l2-event-recap/"/>
+    <id>http://yahsin.me/2019/10/29/devcon-osaka-l2-event-recap/</id>
+    <published>2019-10-28T16:21:03.000Z</published>
+    <updated>2021-03-17T16:24:33.139Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;figure&gt;&lt;img src=&quot;/2019/10/29/devcon-osaka-l2-event-recap/devcon_l2_feature.jpeg&quot;&gt;&lt;figcaption&gt;On Tuesday, October 8 Cryptoeconomics Lab organized a local meetup event “L2 and Business” during Devcon 5 in Osaka, Japan. Photo: Cryptoeconomics Lab&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+&lt;p&gt;On Tuesday, October 8 &lt;a href=&quot;https://www.cryptoeconomicslab.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Cryptoeconomics Lab&lt;/a&gt; organized a local meetup &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>7 Most Exciting Blockchain Companies in Taiwan</title>
+    <link href="http://yahsin.me/2018/12/31/Blockchain-Companies-Taiwan/"/>
+    <id>http://yahsin.me/2018/12/31/Blockchain-Companies-Taiwan/</id>
+    <published>2018-12-31T03:54:01.000Z</published>
+    <updated>2021-03-17T16:24:33.078Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;By Yahsin Huang&lt;/p&gt;
+&lt;p&gt;Blockchain technology has been perhaps the most talked-about topic of 2018. Many entrepreneurial professionals living and working in Taiwan are showing a lot of interest in blockchain technologies. Some of them, intrigued by the idea of blockchain when first introduced to the concept a couple years ago, have been experimenting with the technology. Looking ahead to the next year, blockchain communities in Taiwan are expected to see a lot more exciting activities,
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>DevCon4 Recap 前進千塔之城布拉格！DevCon 4 以太坊開發者大會經驗分享</title>
+    <link href="http://yahsin.me/2018/11/29/DevCon4-Recap/"/>
+    <id>http://yahsin.me/2018/11/29/DevCon4-Recap/</id>
+    <published>2018-11-29T14:00:00.000Z</published>
+    <updated>2021-03-17T16:24:33.048Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;文：黃雅信 Yahsin Huang&lt;/p&gt;
+&lt;img src=&quot;/2018/11/29/DevCon4-Recap/Hualien_meetup_photo.jpg&quot;&gt;
+&lt;p&gt;活動名稱：Hualien.py Meetup&lt;br&gt;活動時間：2018年11月27日星期二 18:30 — 21:00&lt;br&gt;活動地點：工研院 Omega Zone（花蓮市精美路18號）&lt;/p&gt;
+&lt;p&gt;演講題目：&lt;br&gt;DevCon4 Recap 前進千塔之城布拉格！DevCon 4 以太坊開發者大會經驗分享&lt;/p&gt;
+&lt;p&gt;內容摘要：&lt;br&gt;DevCon 為年度全球規模最大的以太坊開發者大會，於10月30日到11月2日期間舉辦，為期四天的第四屆以太坊開發者大會，今年在捷克布拉格舉行，吸引了逾3000名開發者、產學界專家前往取經。與去年在墨西哥坎昆的 DevCon 相比，參與人數再翻倍。正因為年年舉辦，也讓 DevCon 以太坊開發者大會儼然成為以太坊發展趨勢的風向球。本次演講內容將分享在布拉格參加 DevCon 4
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>專訪Mobileye全球銷售總監David Oberman</title>
+    <link href="http://yahsin.me/2017/12/02/Mobileye-interview-chinese/"/>
+    <id>http://yahsin.me/2017/12/02/Mobileye-interview-chinese/</id>
+    <published>2017-12-02T03:02:16.000Z</published>
+    <updated>2021-03-17T16:24:33.047Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2017/12/02/Mobileye-interview-chinese/Mobileye_photo.jpeg&quot;&gt;
+&lt;p&gt;Mobileye全球銷售總監David Oberman&lt;br&gt;共享道路資訊，實現自動駕駛世界地圖&lt;/p&gt;
+&lt;p&gt;採訪‧撰文: 黃雅信 Yahsin Huang&lt;/p&gt;
+&lt;p&gt;本文首刊登於&lt;a href=&quot;https://www.bnext.com.tw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;數位時代雜誌&lt;/a&gt;以色列創新特刊2017年11月。&lt;/p&gt;
+&lt;p&gt;許多車廠都希望開發出無人駕駛車輛，&lt;a href=&quot;https://www.mobileye.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mobileye&lt;/a&gt;已在相關領域開發長達十多年時間，透過感側技術、電腦視覺與數據採集、分析技術的催化，可望加速實現全自動駕駛藍圖。&lt;/p&gt;
+&lt;p&gt;今年3月，全球最大晶片製造商英特爾（Intel）以153億美元&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Interview with autonomous car tech company Mobileye&#39;s sales director David Oberman</title>
+    <link href="http://yahsin.me/2017/12/01/Interview-with-autonomous-car-tech-company-Mobileye-s-sales-director-David-Oberman/"/>
+    <id>http://yahsin.me/2017/12/01/Interview-with-autonomous-car-tech-company-Mobileye-s-sales-director-David-Oberman/</id>
+    <published>2017-12-01T11:40:59.000Z</published>
+    <updated>2021-03-17T16:24:33.047Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;link href=&quot;https://cdn.knightlab.com/libs/soundcite/latest/css/player.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;style&gt;
+.soundcite-play:before {
+    border-left: 0.75em solid red;
+}
+
+.soundcite-pause:before {
+    border-left: .75em double red;
+}
+
+.soundcite-loaded {background-color: rgba(255, 0, 129, 0.21);}
+&lt;/style&gt;
+
+&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>AMF 2016 亞洲會展產業論壇活動報導：開啟會展體驗新想像</title>
+    <link href="http://yahsin.me/2017/10/08/Asian-MICE-Forum/"/>
+    <id>http://yahsin.me/2017/10/08/Asian-MICE-Forum/</id>
+    <published>2017-10-08T14:30:01.000Z</published>
+    <updated>2021-03-17T16:24:33.036Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2017/10/08/Asian-MICE-Forum/IMG_0808.JPG&quot;&gt;
+&lt;iframe src=&quot;/2017/10/08/Asian-MICE-Forum/AMF-2.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt; &lt;/iframe&gt;
+
+&lt;p&gt;文/圖 黃雅信 Yahsin Huang&lt;/p&gt;
+&lt;p&gt;本文首刊登於&lt;a href=&quot;https://www.facebook.com/EventPlatformmagazine/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Event活動平台雜誌&lt;/a&gt;2016年10月。&lt;/p&gt;
+&lt;p&gt;亞洲會展界年度盛事之一的&lt;a href=&quot;http://www.amf.com.tw&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Maker自造者運動在台灣</title>
+    <link href="http://yahsin.me/2017/10/07/Brief-history-of-maker-movement-in-Taiwan/"/>
+    <id>http://yahsin.me/2017/10/07/Brief-history-of-maker-movement-in-Taiwan/</id>
+    <published>2017-10-07T13:11:11.000Z</published>
+    <updated>2021-03-17T16:24:33.046Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2017/10/07/Brief-history-of-maker-movement-in-Taiwan/maker_history.jpg&quot;&gt;
+&lt;p&gt;臺北自造空間Openlab Taipei共同創辦人&lt;a href=&quot;https://www.facebook.com/honki?locale=tw_TW&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;鄭鴻旗(Hung-chi Cheng)&lt;/a&gt; 與 Code for Africa 創辦人 &lt;a href=&quot;https://www.icfj.org/about/profiles/justin-arenstein&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Justin Arenstein&lt;/a&gt;、NPR視覺團隊開發者 &lt;a href=&quot;http://www.recoveredfactory.net&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;David Eads&lt;/a&gt; 於2015年8月在Openlab Taipei空間合影。&lt;/p&gt;
+&lt;img
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>“Maker”開啟全世界與自造者的對話：專訪《Maker自造世代》國際紀錄片導演蔡牧民、製作人賴佩芸</title>
+    <link href="http://yahsin.me/2017/10/05/In-Conversation-with-Maker-documentary-film-director-Mu-Ming-Tsai-and-producer-Iris-Lai/"/>
+    <id>http://yahsin.me/2017/10/05/In-Conversation-with-Maker-documentary-film-director-Mu-Ming-Tsai-and-producer-Iris-Lai/</id>
+    <published>2017-10-05T14:44:37.000Z</published>
+    <updated>2021-03-17T16:24:33.034Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/2017/10/05/In-Conversation-with-Maker-documentary-film-director-Mu-Ming-Tsai-and-producer-Iris-Lai/maker_movie_1.jpeg&quot;&gt;
+&lt;img src=&quot;/2017/10/05/In-Conversation-with-Maker-documentary-film-director-Mu-Ming-Tsai-and-producer-Iris-Lai/maker_movie_2.png&quot;&gt;
+&lt;p&gt;本文首刊登於&lt;a href=&quot;http://www.makezine.com.tw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Make國際中文版雜誌&lt;/a&gt;第12期，2014年7月發行。&lt;/p&gt;
+&lt;p&gt;文: 黃雅信 Yahsin Huang Photo: &lt;a href=&quot;http://www.murismedia.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;MURIS 繆思媒體&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
