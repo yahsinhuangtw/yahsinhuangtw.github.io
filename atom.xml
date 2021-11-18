@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2021-04-19T16:08:54.157Z</updated>
+  <updated>2021-11-18T17:15:58.269Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Using MPC to Help Achieve Blockchain Privacy</title>
+    <link href="http://yahsin.me/2021/11/19/Using-MPC-to-Help-Achieve-Blockchain-Privacy/"/>
+    <id>http://yahsin.me/2021/11/19/Using-MPC-to-Help-Achieve-Blockchain-Privacy/</id>
+    <published>2021-11-18T16:37:55.000Z</published>
+    <updated>2021-11-18T17:15:58.269Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This post answers some of the most commonly asked questions about using multi-party computation (MPC) in blockchains.&lt;/p&gt;
+&lt;h2 id=&quot;What-is-MPC&quot;&gt;&lt;a href=&quot;#What-is-MPC&quot; class=&quot;headerlink&quot; title=&quot;What is MPC?&quot;&gt;&lt;/a&gt;What is MPC?&lt;/h2&gt;&lt;p&gt;Multi-party computation (MPC) is a cryptographic protocol that does a joint computation involving multiple parties over their inputs while keeping those inputs private.&lt;/p&gt;
+&lt;p&gt;A famous example of MPC is &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Qu&#39;est-ce que tu fais comme travail?</title>
@@ -498,31 +523,6 @@
 &lt;p&gt;文/圖 黃雅信 Yahsin Huang&lt;/p&gt;
 &lt;p&gt;本文首刊登於&lt;a href=&quot;https://www.facebook.com/EventPlatformmagazine/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Event活動平台雜誌&lt;/a&gt;2016年10月。&lt;/p&gt;
 &lt;p&gt;亞洲會展界年度盛事之一的&lt;a href=&quot;http://www.amf.com.tw&quot; target=&quot;_blank&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Maker自造者運動在台灣</title>
-    <link href="http://yahsin.me/2017/10/07/Brief-history-of-maker-movement-in-Taiwan/"/>
-    <id>http://yahsin.me/2017/10/07/Brief-history-of-maker-movement-in-Taiwan/</id>
-    <published>2017-10-07T13:11:11.000Z</published>
-    <updated>2021-03-17T16:24:33.046Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;img src=&quot;/2017/10/07/Brief-history-of-maker-movement-in-Taiwan/maker_history.jpg&quot;&gt;
-&lt;p&gt;臺北自造空間Openlab Taipei共同創辦人&lt;a href=&quot;https://www.facebook.com/honki?locale=tw_TW&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;鄭鴻旗(Hung-chi Cheng)&lt;/a&gt; 與 Code for Africa 創辦人 &lt;a href=&quot;https://www.icfj.org/about/profiles/justin-arenstein&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Justin Arenstein&lt;/a&gt;、NPR視覺團隊開發者 &lt;a href=&quot;http://www.recoveredfactory.net&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;David Eads&lt;/a&gt; 於2015年8月在Openlab Taipei空間合影。&lt;/p&gt;
-&lt;img
         
       
     
