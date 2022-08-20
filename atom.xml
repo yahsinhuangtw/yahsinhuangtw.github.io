@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2022-08-20T15:06:37.359Z</updated>
+  <updated>2022-08-20T15:27:37.249Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yahsin.me/2022/08/20/My-last-trip/"/>
     <id>http://yahsin.me/2022/08/20/My-last-trip/</id>
     <published>2022-08-20T15:03:51.000Z</published>
-    <updated>2022-08-20T15:06:37.359Z</updated>
+    <updated>2022-08-20T15:27:37.249Z</updated>
     
     <summary type="html">
     
@@ -38,7 +38,11 @@
     
     
     
-      <category term="Travel, Europe, Culture" scheme="http://yahsin.me/tags/Travel-Europe-Culture/"/>
+      <category term="Travel" scheme="http://yahsin.me/tags/Travel/"/>
+    
+      <category term="Europe" scheme="http://yahsin.me/tags/Europe/"/>
+    
+      <category term="Culture" scheme="http://yahsin.me/tags/Culture/"/>
     
   </entry>
   
