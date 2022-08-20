@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2021-11-18T17:15:58.269Z</updated>
+  <updated>2022-08-20T15:06:37.359Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My last trip</title>
+    <link href="http://yahsin.me/2022/08/20/My-last-trip/"/>
+    <id>http://yahsin.me/2022/08/20/My-last-trip/</id>
+    <published>2022-08-20T15:03:51.000Z</published>
+    <updated>2022-08-20T15:06:37.359Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;My last trip was a three-month trip to Europe. During the months of April, May, June and July, I visited several small towns and lots of major cities in Europe. I have been to Europe several times since high school, but I wouldn’t say I know Europe well. The last time I visited Europe was some two years ago when I went to a blockchain conference event in Paris.&lt;/p&gt;
+&lt;p&gt;I’ve come back to Taiwan, had my week-long home quarantine in the south of Taiwan. I tried to clean my apartment in Taipei
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Travel, Europe, Culture" scheme="http://yahsin.me/tags/Travel-Europe-Culture/"/>
+    
+  </entry>
   
   <entry>
     <title>Using MPC to Help Achieve Blockchain Privacy</title>
@@ -495,34 +521,6 @@
 &lt;/style&gt;
 
 &lt;img
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>AMF 2016 亞洲會展產業論壇活動報導：開啟會展體驗新想像</title>
-    <link href="http://yahsin.me/2017/10/08/Asian-MICE-Forum/"/>
-    <id>http://yahsin.me/2017/10/08/Asian-MICE-Forum/</id>
-    <published>2017-10-08T14:30:01.000Z</published>
-    <updated>2021-03-17T16:24:33.036Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;img src=&quot;/2017/10/08/Asian-MICE-Forum/IMG_0808.JPG&quot;&gt;
-&lt;iframe src=&quot;/2017/10/08/Asian-MICE-Forum/AMF-2.pdf&quot; width=&quot;100%&quot; height=&quot;500px&quot;&gt; &lt;/iframe&gt;
-
-&lt;p&gt;文/圖 黃雅信 Yahsin Huang&lt;/p&gt;
-&lt;p&gt;本文首刊登於&lt;a href=&quot;https://www.facebook.com/EventPlatformmagazine/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Event活動平台雜誌&lt;/a&gt;2016年10月。&lt;/p&gt;
-&lt;p&gt;亞洲會展界年度盛事之一的&lt;a href=&quot;http://www.amf.com.tw&quot; target=&quot;_blank&quot;
         
       
     
