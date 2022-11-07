@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2022-08-20T15:27:37.249Z</updated>
+  <updated>2022-11-07T12:21:09.047Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Goodbye October! Devcon Swag Fashion, CS50 Lecture 2 Arrays, Problem Sets</title>
+    <link href="http://yahsin.me/2022/11/07/Sets/"/>
+    <id>http://yahsin.me/2022/11/07/Sets/</id>
+    <published>2022-11-07T12:12:22.000Z</published>
+    <updated>2022-11-07T12:21:09.047Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Devcon was held in mid October this year. The Bogotá, Colombia Edition. I wasn’t there but I did get some swag. Among the stuff I got, a few items stood out to me. Crypto swag fashion item number one. A black cap. With a beautiful blue and purple Ethereum logo on it. I absolutely love it. I’m wearing it every day now. It’s so perfect for Autumn days in Asia.&lt;/p&gt;
+&lt;p&gt;Crypto swag fashion item number one. A lovely black tote bag. It came from Scroll (a startup that builds native zkEVM layer 2
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="octupdate" scheme="http://yahsin.me/tags/octupdate/"/>
+    
+  </entry>
   
   <entry>
     <title>My last trip</title>
@@ -489,42 +515,6 @@
 &lt;p&gt;本文首刊登於&lt;a href=&quot;https://www.bnext.com.tw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;數位時代雜誌&lt;/a&gt;以色列創新特刊2017年11月。&lt;/p&gt;
 &lt;p&gt;許多車廠都希望開發出無人駕駛車輛，&lt;a href=&quot;https://www.mobileye.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mobileye&lt;/a&gt;已在相關領域開發長達十多年時間，透過感側技術、電腦視覺與數據採集、分析技術的催化，可望加速實現全自動駕駛藍圖。&lt;/p&gt;
 &lt;p&gt;今年3月，全球最大晶片製造商英特爾（Intel）以153億美元&lt;a
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Interview with autonomous car tech company Mobileye&#39;s sales director David Oberman</title>
-    <link href="http://yahsin.me/2017/12/01/Interview-with-autonomous-car-tech-company-Mobileye-s-sales-director-David-Oberman/"/>
-    <id>http://yahsin.me/2017/12/01/Interview-with-autonomous-car-tech-company-Mobileye-s-sales-director-David-Oberman/</id>
-    <published>2017-12-01T11:40:59.000Z</published>
-    <updated>2021-03-17T16:24:33.047Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;link href=&quot;https://cdn.knightlab.com/libs/soundcite/latest/css/player.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;&lt;script type=&quot;text/javascript&quot; src=&quot;https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;style&gt;
-.soundcite-play:before {
-    border-left: 0.75em solid red;
-}
-
-.soundcite-pause:before {
-    border-left: .75em double red;
-}
-
-.soundcite-loaded {background-color: rgba(255, 0, 129, 0.21);}
-&lt;/style&gt;
-
-&lt;img
         
       
     
