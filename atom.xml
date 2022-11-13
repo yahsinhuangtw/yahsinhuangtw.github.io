@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2022-11-07T12:32:05.063Z</updated>
+  <updated>2022-11-13T06:28:01.880Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello November | Do you still read blogs?</title>
+    <link href="http://yahsin.me/2022/11/13/November-blogs-still-a-thing/"/>
+    <id>http://yahsin.me/2022/11/13/November-blogs-still-a-thing/</id>
+    <published>2022-11-13T06:26:14.000Z</published>
+    <updated>2022-11-13T06:28:01.880Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Do-you-still-read-blogs&quot;&gt;&lt;a href=&quot;#Do-you-still-read-blogs&quot; class=&quot;headerlink&quot; title=&quot;Do you still read blogs?&quot;&gt;&lt;/a&gt;Do you still read blogs?&lt;/h2&gt;&lt;p&gt;I still read blogs. In 2022. In fact I read blogs regularly, at least a few times a week. I browse headings and sometimes subheadings of Vitalik’s blog &lt;a href=&quot;https://vitalik.ca/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://vitalik.ca/&lt;/a&gt; and Dankrad’s blog &lt;a href=&quot;https://dankradfeist.de/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="november" scheme="http://yahsin.me/tags/november/"/>
+    
+  </entry>
   
   <entry>
     <title>Goodbye October! Devcon Swag Fashion, CS50 Lecture 2 Arrays, Problem Sets</title>
@@ -487,34 +512,6 @@
 &lt;p&gt;活動名稱：Hualien.py Meetup&lt;br&gt;活動時間：2018年11月27日星期二 18:30 — 21:00&lt;br&gt;活動地點：工研院 Omega Zone（花蓮市精美路18號）&lt;/p&gt;
 &lt;p&gt;演講題目：&lt;br&gt;DevCon4 Recap 前進千塔之城布拉格！DevCon 4 以太坊開發者大會經驗分享&lt;/p&gt;
 &lt;p&gt;內容摘要：&lt;br&gt;DevCon 為年度全球規模最大的以太坊開發者大會，於10月30日到11月2日期間舉辦，為期四天的第四屆以太坊開發者大會，今年在捷克布拉格舉行，吸引了逾3000名開發者、產學界專家前往取經。與去年在墨西哥坎昆的 DevCon 相比，參與人數再翻倍。正因為年年舉辦，也讓 DevCon 以太坊開發者大會儼然成為以太坊發展趨勢的風向球。本次演講內容將分享在布拉格參加 DevCon 4
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>專訪Mobileye全球銷售總監David Oberman</title>
-    <link href="http://yahsin.me/2017/12/02/Mobileye-interview-chinese/"/>
-    <id>http://yahsin.me/2017/12/02/Mobileye-interview-chinese/</id>
-    <published>2017-12-02T03:02:16.000Z</published>
-    <updated>2021-03-17T16:24:33.047Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;img src=&quot;/2017/12/02/Mobileye-interview-chinese/Mobileye_photo.jpeg&quot;&gt;
-&lt;p&gt;Mobileye全球銷售總監David Oberman&lt;br&gt;共享道路資訊，實現自動駕駛世界地圖&lt;/p&gt;
-&lt;p&gt;採訪‧撰文: 黃雅信 Yahsin Huang&lt;/p&gt;
-&lt;p&gt;本文首刊登於&lt;a href=&quot;https://www.bnext.com.tw&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;數位時代雜誌&lt;/a&gt;以色列創新特刊2017年11月。&lt;/p&gt;
-&lt;p&gt;許多車廠都希望開發出無人駕駛車輛，&lt;a href=&quot;https://www.mobileye.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mobileye&lt;/a&gt;已在相關領域開發長達十多年時間，透過感側技術、電腦視覺與數據採集、分析技術的催化，可望加速實現全自動駕駛藍圖。&lt;/p&gt;
-&lt;p&gt;今年3月，全球最大晶片製造商英特爾（Intel）以153億美元&lt;a
         
       
     
