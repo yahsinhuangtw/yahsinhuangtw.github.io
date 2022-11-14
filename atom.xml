@@ -3,10 +3,10 @@
   <title>Yahsin Huang</title>
   <icon>http://yahsin.me/images/logo.png</icon>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2022-11-13T06:28:01.880Z</updated>
+  <updated>2022-11-14T16:56:12.630Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -17,27 +17,47 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Striking up a conversation with a group of people at a coffee shop</title>
+    <link href="http://yahsin.me/2022/11/15/Nov-strike-up-conversation-cafe/"/>
+    <id>http://yahsin.me/2022/11/15/Nov-strike-up-conversation-cafe/</id>
+    <published>2022-11-14T16:53:27.000Z</published>
+    <updated>2022-11-14T16:56:12.630Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I was reading this French contemporary book « Combats et métamorphoses d’une femme » d’Edouard Louis (Seuil, 128 p.,), English translation: A Woman’s Battles and Transformations by Édouard Louis, at a random coffee shop in New Taipei. The English translation was published this summer in August 2022. The original French edition was published a year before in April 2021. &lt;/p&gt;
+&lt;h2 id=&quot;Have-been-reading-a-lot-of-contemporary-fiction-lately&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello November | Do you still read blogs?</title>
     <link href="http://yahsin.me/2022/11/13/November-blogs-still-a-thing/"/>
     <id>http://yahsin.me/2022/11/13/November-blogs-still-a-thing/</id>
     <published>2022-11-13T06:26:14.000Z</published>
     <updated>2022-11-13T06:28:01.880Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h2 id=&quot;Do-you-still-read-blogs&quot;&gt;&lt;a href=&quot;#Do-you-still-read-blogs&quot; class=&quot;headerlink&quot; title=&quot;Do you still read blogs?&quot;&gt;&lt;/a&gt;Do you still read blogs?&lt;/h2&gt;&lt;p&gt;I still read blogs. In 2022. In fact I read blogs regularly, at least a few times a week. I browse headings and sometimes subheadings of Vitalik’s blog &lt;a href=&quot;https://vitalik.ca/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://vitalik.ca/&lt;/a&gt; and Dankrad’s blog &lt;a href=&quot;https://dankradfeist.de/&quot; target=&quot;_blank&quot;
+    <summary type="html">&lt;h2 id=&quot;Do-you-still-read-blogs&quot;&gt;&lt;a href=&quot;#Do-you-still-read-blogs&quot; class=&quot;headerlink&quot; title=&quot;Do you still read blogs?&quot;&gt;&lt;/a&gt;Do you still read blogs?&lt;/h2&gt;&lt;p&gt;I still read blogs. In 2022. In fact I read blogs regularly, at least a few times a week. I browse headings and sometimes subheadings of Vitalik’s blog &lt;a href=&quot;https://vitalik.ca/&quot;&gt;https://vitalik.ca/&lt;/a&gt; and Dankrad’s blog &lt;a href=&quot;https://dankradfeist.de/&quot;&gt;https://dankradfeist.de/&lt;/a&gt;. I check out what flyinglimao has been up to by</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="november" scheme="http://yahsin.me/tags/november/"/>
+    <category term="november" scheme="http://yahsin.me/tags/november/"/>
     
   </entry>
   
@@ -48,22 +68,20 @@
     <published>2022-11-07T12:12:22.000Z</published>
     <updated>2022-11-07T12:32:05.063Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Devcon was held in mid October this year. The Bogotá, Colombia Edition. I wasn’t there but I did get some swag. Among the stuff I got, a few items stood out to me. Crypto swag fashion item number one. A black cap. With a beautiful blue and purple Ethereum logo on it. I absolutely love it. I’m wearing it every day now. It’s so perfect for Autumn days in Asia.&lt;/p&gt;
-&lt;p&gt;Crypto swag fashion item number one. A lovely black tote bag. It came from Scroll (a startup that builds native zkEVM layer 2
+    <summary type="html">&lt;p&gt;Devcon was held in mid October this year. The Bogotá, Colombia Edition. I wasn’t there but I did get some swag. Among the stuff I got, a few items stood out to me. Crypto swag fashion item number one. A black cap. With a beautiful blue and purple Ethereum logo on it. I absolutely love it. I’m wearing it every day now. It’s so perfect for Autumn days in Asia.&lt;/p&gt;
+&lt;p&gt;Crypto swag fashion item number one. A lovely black tote bag. It came from Scroll (a startup that builds native zkEVM layer 2</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="octupdate" scheme="http://yahsin.me/tags/octupdate/"/>
+    <category term="octupdate" scheme="http://yahsin.me/tags/octupdate/"/>
     
   </entry>
   
@@ -74,26 +92,24 @@
     <published>2022-08-20T15:03:51.000Z</published>
     <updated>2022-08-20T15:27:37.249Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;My last trip was a three-month trip to Europe. During the months of April, May, June and July, I visited several small towns and lots of major cities in Europe. I have been to Europe several times since high school, but I wouldn’t say I know Europe well. The last time I visited Europe was some two years ago when I went to a blockchain conference event in Paris.&lt;/p&gt;
-&lt;p&gt;I’ve come back to Taiwan, had my week-long home quarantine in the south of Taiwan. I tried to clean my apartment in Taipei
+    <summary type="html">&lt;p&gt;My last trip was a three-month trip to Europe. During the months of April, May, June and July, I visited several small towns and lots of major cities in Europe. I have been to Europe several times since high school, but I wouldn’t say I know Europe well. The last time I visited Europe was some two years ago when I went to a blockchain conference event in Paris.&lt;/p&gt;
+&lt;p&gt;I’ve come back to Taiwan, had my week-long home quarantine in the south of Taiwan. I tried to clean my apartment in Taipei</summary>
         
       
     
-    </summary>
     
     
     
-      <category term="Travel" scheme="http://yahsin.me/tags/Travel/"/>
+    <category term="Travel" scheme="http://yahsin.me/tags/Travel/"/>
     
-      <category term="Europe" scheme="http://yahsin.me/tags/Europe/"/>
+    <category term="Europe" scheme="http://yahsin.me/tags/Europe/"/>
     
-      <category term="Culture" scheme="http://yahsin.me/tags/Culture/"/>
+    <category term="Culture" scheme="http://yahsin.me/tags/Culture/"/>
     
   </entry>
   
@@ -104,19 +120,17 @@
     <published>2021-11-18T16:37:55.000Z</published>
     <updated>2021-11-18T17:15:58.269Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;This post answers some of the most commonly asked questions about using multi-party computation (MPC) in blockchains.&lt;/p&gt;
+    <summary type="html">&lt;p&gt;This post answers some of the most commonly asked questions about using multi-party computation (MPC) in blockchains.&lt;/p&gt;
 &lt;h2 id=&quot;What-is-MPC&quot;&gt;&lt;a href=&quot;#What-is-MPC&quot; class=&quot;headerlink&quot; title=&quot;What is MPC?&quot;&gt;&lt;/a&gt;What is MPC?&lt;/h2&gt;&lt;p&gt;Multi-party computation (MPC) is a cryptographic protocol that does a joint computation involving multiple parties over their inputs while keeping those inputs private.&lt;/p&gt;
-&lt;p&gt;A famous example of MPC is &lt;a
+&lt;p&gt;A famous example of MPC is &lt;a</summary>
         
       
     
-    </summary>
     
     
     
@@ -129,19 +143,17 @@
     <published>2021-04-13T17:59:49.000Z</published>
     <updated>2022-01-03T09:46:18.788Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h2 id=&quot;Qu’est-ce-que-tu-fais-comme-travail&quot;&gt;&lt;a href=&quot;#Qu’est-ce-que-tu-fais-comme-travail&quot; class=&quot;headerlink&quot; title=&quot;Qu’est-ce que tu fais comme travail?&quot;&gt;&lt;/a&gt;Qu’est-ce que tu fais comme travail?&lt;/h2&gt;&lt;p&gt;Bonjour, je m’appelle Yahsin. Enchantée!&lt;/p&gt;
-&lt;p&gt;Je suis directrice des opérations dans une startup. Elle s’appelle &lt;a href=&quot;https://hashcloak.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;HashCloak&lt;/a&gt;. C’est une startup basée à Toronto au Canada.&lt;/p&gt;
-&lt;p&gt;C’est une société de logiciels qui fait beaucoup
+    <summary type="html">&lt;h2 id=&quot;Qu’est-ce-que-tu-fais-comme-travail&quot;&gt;&lt;a href=&quot;#Qu’est-ce-que-tu-fais-comme-travail&quot; class=&quot;headerlink&quot; title=&quot;Qu’est-ce que tu fais comme travail?&quot;&gt;&lt;/a&gt;Qu’est-ce que tu fais comme travail?&lt;/h2&gt;&lt;p&gt;Bonjour, je m’appelle Yahsin. Enchantée!&lt;/p&gt;
+&lt;p&gt;Je suis directrice des opérations dans une startup. Elle s’appelle &lt;a href=&quot;https://hashcloak.com/&quot;&gt;HashCloak&lt;/a&gt;. C’est une startup basée à Toronto au Canada.&lt;/p&gt;
+&lt;p&gt;C’est une société de logiciels qui fait beaucoup de conseil en recherche et</summary>
         
       
     
-    </summary>
     
     
     
@@ -154,20 +166,18 @@
     <published>2020-09-13T17:04:22.000Z</published>
     <updated>2021-03-17T16:24:33.159Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/rxcwild_event_feature.png&quot;&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/rxcwild_event_feature.png&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;Below is the script that I prepared for my 10-minute presentation at a recent RadicalxChange online panel event. &lt;/p&gt;
-&lt;p&gt;Organized by the &lt;a href=&quot;https://www.radicalxchange.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;RadicalxChange Foundation&lt;/a&gt;, the 1-hour event, “RadicalxChange in the Wild: Social Upgrades in Colorado
+&lt;p&gt;Organized by the &lt;a href=&quot;https://www.radicalxchange.org/&quot;&gt;RadicalxChange Foundation&lt;/a&gt;, the 1-hour event, “RadicalxChange in the Wild: Social Upgrades in Colorado and Taiwan,” held on</summary>
         
       
     
-    </summary>
     
     
     
@@ -180,18 +190,16 @@
     <published>2020-08-07T15:19:44.000Z</published>
     <updated>2021-03-17T16:24:33.149Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;I haven’t been abroad since April because of COVID-19. Not too long, but somehow it feels like a lifetime. I was thinking of the U.S. recently for some reason, I don’t know why I miss my two weeks in the U.S. so much. I thought I just needed to get the story out, or I’ll never come back to it; hence never write it. I’ve got to keep writing – there’s no other way! How else would you reflect yourself?&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/2020/08/07/8-Days-in-Palo-Alto-California/ca_usa_01.jpg&quot;&gt;&lt;figcaption&gt;I
+    <summary type="html">&lt;p&gt;I haven’t been abroad since April because of COVID-19. Not too long, but somehow it feels like a lifetime. I was thinking of the U.S. recently for some reason, I don’t know why I miss my two weeks in the U.S. so much. I thought I just needed to get the story out, or I’ll never come back to it; hence never write it. I’ve got to keep writing – there’s no other way! How else would you reflect yourself?&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&quot;/2020/08/07/8-Days-in-Palo-Alto-California/ca_usa_01.jpg&quot;</summary>
         
       
     
-    </summary>
     
     
     
@@ -204,20 +212,18 @@
     <published>2020-08-04T18:03:44.000Z</published>
     <updated>2021-03-17T16:24:33.145Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/rxc_podcast_feature_01.png&quot;&gt;&lt;figcaption&gt;RadicalxChange Taipei chapter leaders CC &amp;amp; Yahsin were featured as guests on Astro Hsu’s BlockTrend podcast.&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/rxc_podcast_feature_01.png&quot; /&gt;&lt;figcaption&gt;RadicalxChange Taipei chapter leaders CC &amp; Yahsin were featured as guests on Astro Hsu&#39;s BlockTrend podcast.&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Interview notes I prepared a day prior to the Friday (7/24) podcast interview. 以下內容是訪談前一天準備的講稿，當天錄音時並沒有照著這些預先準備的內容講，所以這篇內容單純提供給各位當背景資料參考。&lt;/p&gt;
-&lt;figure&gt;&lt;img
+&lt;p&gt;Interview notes I prepared a day prior to the Friday (7&amp;#x2F;24) podcast interview. 以下內容是訪談前一天準備的講稿，當天錄音時並沒有照著這些預先準備的內容講，所以這篇內容單純提供給各位當背景資料參考。&lt;/p&gt;
+&lt;figure&gt;&lt;img</summary>
         
       
     
-    </summary>
     
     
     
@@ -230,18 +236,16 @@
     <published>2020-07-27T15:21:44.000Z</published>
     <updated>2021-03-17T16:24:33.144Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;What are some of the most exciting opportunities for front-end engineers that are unique in the blockchain sphere? I got this question from a front-end engineer earlier today, on a Monday night (7/27). Thought it was an important question to think about. So I thought, why not ask around and seek insights from the brilliant minds in my professional network? &lt;/p&gt;
-&lt;p&gt;Here’s a collection of responses I gathered on Twitter and Facebook. Note that these responses have been slightly edited for
+    <summary type="html">&lt;p&gt;What are some of the most exciting opportunities for front-end engineers that are unique in the blockchain sphere? I got this question from a front-end engineer earlier today, on a Monday night (7&amp;#x2F;27). Thought it was an important question to think about. So I thought, why not ask around and seek insights from the brilliant minds in my professional network? &lt;/p&gt;
+&lt;p&gt;Here’s a collection of responses I gathered on Twitter and Facebook. Note that these responses have been slightly edited for</summary>
         
       
     
-    </summary>
     
     
     
@@ -254,19 +258,17 @@
     <published>2020-07-22T17:25:02.000Z</published>
     <updated>2021-03-17T16:24:33.143Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/07/23/Cayman-Lodestar-Taipei-Ethereum-Meetup-July-Event/Cayman_EthCC_Paris.jpg&quot;&gt;&lt;figcaption&gt;Lodestar tech lead Cayman Nava was one of the speakers at the EthCC conference event held at Maison de la Mutualité in Paris, France in March, 2020. Photo: Yahsin Huang&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/07/23/Cayman-Lodestar-Taipei-Ethereum-Meetup-July-Event/Cayman_EthCC_Paris.jpg&quot; /&gt;&lt;figcaption&gt;Lodestar tech lead Cayman Nava was one of the speakers at the EthCC conference event held at Maison de la Mutualité in Paris, France in March, 2020. Photo: Yahsin Huang&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://www.meetup.com/Taipei-Ethereum-Meetup/events/271735761/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Taipei Ethereum Meetup&lt;/a&gt; online meetup event held on Friday (7/10) that I
+&lt;p&gt;The &lt;a href=&quot;https://www.meetup.com/Taipei-Ethereum-Meetup/events/271735761/&quot;&gt;Taipei Ethereum Meetup&lt;/a&gt; online meetup event held on Friday (7&amp;#x2F;10) that I helped facilitate was a lot</summary>
         
       
     
-    </summary>
     
     
     
@@ -279,19 +281,17 @@
     <published>2020-07-21T17:48:08.000Z</published>
     <updated>2021-03-17T16:24:33.142Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/07/22/I-Ran-My-First-Online-Workshop-with-Bitmark-at-RadicalxChange-Conference-Last-Month/rxc_workshop_banner.jpg&quot;&gt;&lt;figcaption&gt;The “Restoring Data Dignity in COVID-19: A Taiwanese Experience” online workshop was held on Saturday (6/20) at RadicalxChange Conference.&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/07/22/I-Ran-My-First-Online-Workshop-with-Bitmark-at-RadicalxChange-Conference-Last-Month/rxc_workshop_banner.jpg&quot; /&gt;&lt;figcaption&gt;The “Restoring Data Dignity in COVID-19: A Taiwanese Experience” online workshop was held on Saturday (6/20) at RadicalxChange Conference.&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;On Saturday (6/20) last month, I ran a 1-hour data dignity &lt;a href=&quot;https://www.radicalxchange.org/2020-conference/replay/#vcWBpngNSWrc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;workshop&lt;/a&gt;
+&lt;p&gt;On Saturday (6&amp;#x2F;20) last month, I ran a 1-hour data dignity &lt;a href=&quot;https://www.radicalxchange.org/2020-conference/replay/#vcWBpngNSWrc&quot;&gt;workshop&lt;/a&gt; with the &lt;a</summary>
         
       
     
-    </summary>
     
     
     
@@ -304,19 +304,17 @@
     <published>2020-06-15T09:25:24.000Z</published>
     <updated>2021-03-17T16:24:33.141Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/06/15/5-of-the-best-lines-from-bonjour-tristesse/yahsin_bt_eng.jpg&quot; style=&quot;height:340px&quot;&gt;&lt;figcaption&gt;If you want to get a copy of the Irene Ash translation of Bonjour Tristesse (which is the one I have), Penguin has a &lt;a href=&quot;https://www.amazon.co.uk/Bonjour-Tristesse-Penguin-Essentials-Francoise/dp/0241951569&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;beautiful paperback&lt;/a&gt; edition.&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/06/15/5-of-the-best-lines-from-bonjour-tristesse/yahsin_bt_eng.jpg&quot; style=&quot;height:340px&quot;/&gt;&lt;figcaption&gt;If you want to get a copy of the Irene Ash translation of Bonjour Tristesse (which is the one I have), Penguin has a [beautiful paperback](https://www.amazon.co.uk/Bonjour-Tristesse-Penguin-Essentials-Francoise/dp/0241951569) edition.&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;I read &lt;a href=&quot;https://en.wikipedia.org/wiki/Fran%C3%A7oise_Sagan&quot;
+&lt;p&gt;I read &lt;a href=&quot;https://en.wikipedia.org/wiki/Fran%C3%A7oise_Sagan&quot;&gt;Françoise Sagan&lt;/a&gt;‘s “&lt;a</summary>
         
       
     
-    </summary>
     
     
     
@@ -329,19 +327,17 @@
     <published>2020-06-13T16:45:45.000Z</published>
     <updated>2021-03-17T16:24:33.139Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/06/14/papers-we-love-taipei-first-meetup-recap/pwl_view.jpg&quot;&gt;&lt;figcaption&gt;On Thursday, June 11, Oskar Thorén and a few of the folks from the Ethereum community organized a local meetup event “Papers We Love Taipei” in Taipei City, Taiwan.&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/06/14/papers-we-love-taipei-first-meetup-recap/pwl_view.jpg&quot; class=&quot;&quot;&gt;&lt;figcaption&gt;On Thursday, June 11, Oskar Thorén and a few of the folks from the Ethereum community organized a local meetup event “Papers We Love Taipei” in Taipei City, Taiwan.&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;On Thursday, June 11, &lt;a href=&quot;https://twitter.com/oskarth&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Oskar Thorén&lt;/a&gt;, head of engineering at &lt;a href=&quot;https://status.im/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Status Network&lt;/a&gt;
+&lt;p&gt;On Thursday, June 11, &lt;a href=&quot;https://twitter.com/oskarth&quot;&gt;Oskar Thorén&lt;/a&gt;, head of engineering at &lt;a href=&quot;https://status.im/&quot;&gt;Status Network&lt;/a&gt; and the Status Network’s &lt;a</summary>
         
       
     
-    </summary>
     
     
     
@@ -354,17 +350,16 @@
     <published>2020-06-07T10:30:00.000Z</published>
     <updated>2021-03-17T16:24:33.107Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;On Wednesday (5/27), &lt;a href=&quot;https://twitter.com/badcryptobitch&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mikerah Quintyne-Collins&lt;/a&gt;, a blockchain researcher from Toronto, Canada, gave a 30-minute talk on “Ethereum Access Privacy” at &lt;a href=&quot;https://medium.com/taipei-ethereum-meetup&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Taipei Ethereum Meetup&lt;/a&gt; online event. Watch the livestreamed event on &lt;a href=&quot;https://youtu.be/A4oNobjHr-8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;YouTube&lt;/a&gt;. Presentation &lt;a
+    <summary type="html">&lt;p&gt;On Wednesday (5&amp;#x2F;27), &lt;a href=&quot;https://twitter.com/badcryptobitch&quot;&gt;Mikerah Quintyne-Collins&lt;/a&gt;, a blockchain researcher from Toronto, Canada, gave a 30-minute talk on “Ethereum Access Privacy” at &lt;a href=&quot;https://medium.com/taipei-ethereum-meetup&quot;&gt;Taipei Ethereum Meetup&lt;/a&gt; online event. Watch the livestreamed event on &lt;a href=&quot;https://youtu.be/A4oNobjHr-8&quot;&gt;YouTube&lt;/a&gt;. Presentation &lt;a href=&quot;https://hackmd.io/@yBpKEsxORheI8AJoIiZj1Q/Hkb5hM1sL#/&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot;</summary>
         
       
     
-    </summary>
     
     
     
@@ -377,20 +372,18 @@
     <published>2020-06-02T17:27:01.000Z</published>
     <updated>2021-03-17T16:24:33.099Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/06/03/EthDenver-experience/yahsin_ethdenver_optictopic_ppl.jpg&quot;&gt;&lt;figcaption&gt;ETHDenver 2020 Photo: optictopic&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/06/03/EthDenver-experience/yahsin_ethdenver_optictopic_ppl.jpg&quot; class=&quot;&quot;&gt;&lt;figcaption&gt;ETHDenver 2020 Photo: optictopic&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Pictures and some thoughts from my experience at &lt;a href=&quot;https://www.ethdenver.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;ETHDenver&lt;/a&gt; in Denver, Colorado this year!&lt;/p&gt;
-&lt;h3 id=&quot;Visiting-Denver-for-the-first-time&quot;&gt;&lt;a href=&quot;#Visiting-Denver-for-the-first-time&quot; class=&quot;headerlink&quot; title=&quot;Visiting Denver for the first time&quot;&gt;&lt;/a&gt;Visiting Denver
+&lt;p&gt;Pictures and some thoughts from my experience at &lt;a href=&quot;https://www.ethdenver.com/&quot;&gt;ETHDenver&lt;/a&gt; in Denver, Colorado this year!&lt;/p&gt;
+&lt;h3 id=&quot;Visiting-Denver-for-the-first-time&quot;&gt;&lt;a href=&quot;#Visiting-Denver-for-the-first-time&quot; class=&quot;headerlink&quot; title=&quot;Visiting Denver for the first time&quot;&gt;&lt;/a&gt;Visiting Denver for the first</summary>
         
       
     
-    </summary>
     
     
     
@@ -403,19 +396,17 @@
     <published>2020-02-02T13:03:09.000Z</published>
     <updated>2021-03-17T16:24:33.078Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2020/02/02/RadicalxChange/RXCevent.jpeg&quot;&gt;&lt;figcaption&gt;First meetup of RadicalxChange Taipei was held on Tuesday evening (July 16) in Taipei City, Taiwan. Photo: Chien-Te Lee&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/02/02/RadicalxChange/RXCevent.jpeg&quot; class=&quot;&quot;&gt;&lt;figcaption&gt;First meetup of RadicalxChange Taipei was held on Tuesday evening (July 16) in Taipei City, Taiwan. Photo: Chien-Te Lee&lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;RadicalxChange Taipei chapter is here. On Tuesday, July 16 RadicalxChange Taipei kicked off their first event in Taipei, Taiwan. The 2.5-hour meetup drew more than 50 researchers, developers, and community leaders. Below are some highlights from the event, which was moderated by
+&lt;p&gt;RadicalxChange Taipei chapter is here. On Tuesday, July 16 RadicalxChange Taipei kicked off their first event in Taipei, Taiwan. The 2.5-hour meetup drew more than 50 researchers, developers, and community leaders. Below are some highlights from the event, which was</summary>
         
       
     
-    </summary>
     
     
     
@@ -428,17 +419,15 @@
     <published>2019-11-24T18:55:17.000Z</published>
     <updated>2021-03-17T16:24:33.107Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h3 id=&quot;台北以太坊社群舉辦「Crosslink-Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot;&gt;&lt;a href=&quot;#台北以太坊社群舉辦「Crosslink-Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot; class=&quot;headerlink&quot; title=&quot;台北以太坊社群舉辦「Crosslink Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot;&gt;&lt;/a&gt;台北以太坊社群舉辦「Crosslink Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&lt;/h3&gt;&lt;p&gt;台灣區塊鏈界年度盛事之一的「&lt;a href=&quot;https://crosslink.taipei/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Crosslink Taiwan&lt;/a&gt;」由&lt;a href=&quot;https://www.meetup.com/Taipei-Ethereum-Meetup/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;台北以太坊社群&lt;/a&gt;（Taipei
+    <summary type="html">&lt;h3 id=&quot;台北以太坊社群舉辦「Crosslink-Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot;&gt;&lt;a href=&quot;#台北以太坊社群舉辦「Crosslink-Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot; class=&quot;headerlink&quot; title=&quot;台北以太坊社群舉辦「Crosslink Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&quot;&gt;&lt;/a&gt;台北以太坊社群舉辦「Crosslink Taiwan」研討會活動，10月20日於台北矽谷國際會議中心圓滿落幕。&lt;/h3&gt;&lt;p&gt;台灣區塊鏈界年度盛事之一的「&lt;a href=&quot;https://crosslink.taipei/&quot;&gt;Crosslink Taiwan&lt;/a&gt;」由&lt;a href=&quot;https://www.meetup.com/Taipei-Ethereum-Meetup/&quot;&gt;台北以太坊社群&lt;/a&gt;（Taipei Ethereum Meetup）主辦，活動吸引 300 餘人參與，共計有 20 位全球開發者和研究者共襄盛舉；同時，由於 &lt;a</summary>
         
       
     
-    </summary>
     
     
     
@@ -451,20 +440,18 @@
     <published>2019-10-28T16:21:03.000Z</published>
     <updated>2021-03-17T16:24:33.139Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;figure&gt;&lt;img src=&quot;/2019/10/29/devcon-osaka-l2-event-recap/devcon_l2_feature.jpeg&quot;&gt;&lt;figcaption&gt;On Tuesday, October 8 Cryptoeconomics Lab organized a local meetup event “L2 and Business” during Devcon 5 in Osaka, Japan. Photo: Cryptoeconomics Lab&lt;/figcaption&gt;&lt;/figure&gt;
+    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2019/10/29/devcon-osaka-l2-event-recap/devcon_l2_feature.jpeg&quot; class=&quot;&quot;&gt;&lt;figcaption&gt;On Tuesday, October 8 Cryptoeconomics Lab organized a local meetup event “L2 and Business” during Devcon 5 in Osaka, Japan. Photo: Cryptoeconomics Lab&lt;/figcaption&gt;&lt;/figure&gt;
 
 
-&lt;p&gt;On Tuesday, October 8 &lt;a href=&quot;https://www.cryptoeconomicslab.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Cryptoeconomics Lab&lt;/a&gt; organized a local meetup &lt;a
+&lt;p&gt;On Tuesday, October 8 &lt;a href=&quot;https://www.cryptoeconomicslab.com/&quot;&gt;Cryptoeconomics Lab&lt;/a&gt; organized a local meetup &lt;a</summary>
         
       
     
-    </summary>
     
     
     
@@ -477,45 +464,16 @@
     <published>2018-12-31T03:54:01.000Z</published>
     <updated>2021-03-17T16:24:33.078Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;By Yahsin Huang&lt;/p&gt;
-&lt;p&gt;Blockchain technology has been perhaps the most talked-about topic of 2018. Many entrepreneurial professionals living and working in Taiwan are showing a lot of interest in blockchain technologies. Some of them, intrigued by the idea of blockchain when first introduced to the concept a couple years ago, have been experimenting with the technology. Looking ahead to the next year, blockchain communities in Taiwan are expected to see a lot more exciting activities,
+    <summary type="html">&lt;p&gt;By Yahsin Huang&lt;/p&gt;
+&lt;p&gt;Blockchain technology has been perhaps the most talked-about topic of 2018. Many entrepreneurial professionals living and working in Taiwan are showing a lot of interest in blockchain technologies. Some of them, intrigued by the idea of blockchain when first introduced to the concept a couple years ago, have been experimenting with the technology. Looking ahead to the next year, blockchain communities in Taiwan are expected to see a lot more exciting activities,</summary>
         
       
     
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>DevCon4 Recap 前進千塔之城布拉格！DevCon 4 以太坊開發者大會經驗分享</title>
-    <link href="http://yahsin.me/2018/11/29/DevCon4-Recap/"/>
-    <id>http://yahsin.me/2018/11/29/DevCon4-Recap/</id>
-    <published>2018-11-29T14:00:00.000Z</published>
-    <updated>2021-03-17T16:24:33.048Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;文：黃雅信 Yahsin Huang&lt;/p&gt;
-&lt;img src=&quot;/2018/11/29/DevCon4-Recap/Hualien_meetup_photo.jpg&quot;&gt;
-&lt;p&gt;活動名稱：Hualien.py Meetup&lt;br&gt;活動時間：2018年11月27日星期二 18:30 — 21:00&lt;br&gt;活動地點：工研院 Omega Zone（花蓮市精美路18號）&lt;/p&gt;
-&lt;p&gt;演講題目：&lt;br&gt;DevCon4 Recap 前進千塔之城布拉格！DevCon 4 以太坊開發者大會經驗分享&lt;/p&gt;
-&lt;p&gt;內容摘要：&lt;br&gt;DevCon 為年度全球規模最大的以太坊開發者大會，於10月30日到11月2日期間舉辦，為期四天的第四屆以太坊開發者大會，今年在捷克布拉格舉行，吸引了逾3000名開發者、產學界專家前往取經。與去年在墨西哥坎昆的 DevCon 相比，參與人數再翻倍。正因為年年舉辦，也讓 DevCon 以太坊開發者大會儼然成為以太坊發展趨勢的風向球。本次演講內容將分享在布拉格參加 DevCon 4
-        
-      
-    
-    </summary>
     
     
     
