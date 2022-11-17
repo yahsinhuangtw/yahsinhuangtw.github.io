@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2022-11-17T09:54:48.134Z</updated>
+  <updated>2022-11-17T10:06:03.633Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>What I’ve Been Up To Lately - Solidity workshop, CS50 Lectures, Collège de France lectures</title>
+    <title>What I’ve Been Up To Lately - Solidity workshop, CS50, Collège de France lectures</title>
     <link href="http://yahsin.me/2022/11/17/solidity-workshops/"/>
     <id>http://yahsin.me/2022/11/17/solidity-workshops/</id>
     <published>2022-11-17T09:49:49.000Z</published>
-    <updated>2022-11-17T09:54:48.134Z</updated>
+    <updated>2022-11-17T10:06:03.633Z</updated>
     
     
       
@@ -34,6 +34,8 @@
     
     
     
+    
+    <category term="nov-solidity" scheme="http://yahsin.me/tags/nov-solidity/"/>
     
   </entry>
   
