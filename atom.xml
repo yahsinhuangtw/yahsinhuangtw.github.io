@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-01-30T14:47:46.015Z</updated>
+  <updated>2024-02-01T10:26:45.224Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JS While Loop</title>
+    <link href="http://yahsin.me/2024/02/01/JS-While-Loop/"/>
+    <id>http://yahsin.me/2024/02/01/JS-While-Loop/</id>
+    <published>2024-02-01T10:13:35.000Z</published>
+    <updated>2024-02-01T10:26:45.224Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This week I learned some stuff about JavaScript basics. Namely, how to create a while loop, following some 15 minutes of SuperSimpleDev’s JS Course video. Video link: JavaScript Full Course - Beginner to Pro - Part 1 &lt;a href=&quot;https://youtu.be/SBmSRK3feww?si=DrHqPCXH4d6wXoP9&quot;&gt;https://youtu.be/SBmSRK3feww?si=DrHqPCXH4d6wXoP9&lt;/a&gt; starting from 8:21:19 for JS Arrays and Loops.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;       let i = 1;
+       while (i &amp;lt;= 5) &amp;#123;
+         console.log(i);
+         i = i + 1;
+      </summary>
+        
+      
+    
+    
+    
+    
+    <category term="JavaScript, Code, Notes, Web" scheme="http://yahsin.me/tags/JavaScript-Code-Notes-Web/"/>
+    
+  </entry>
   
   <entry>
     <title>The 5 best books I read in January 2024</title>
@@ -459,30 +487,6 @@
         
     <summary type="html">&lt;p&gt;I haven’t been abroad since April because of COVID-19. Not too long, but somehow it feels like a lifetime. I was thinking of the U.S. recently for some reason, I don’t know why I miss my two weeks in the U.S. so much. I thought I just needed to get the story out, or I’ll never come back to it; hence never write it. I’ve got to keep writing – there’s no other way! How else would you reflect yourself?&lt;/p&gt;
 &lt;figure&gt;&lt;img src=&quot;/2020/08/07/8-Days-in-Palo-Alto-California/ca_usa_01.jpg&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>RadicalxChange Taipei Getting Featured as a Guest on a Blockchain Podcast for the First Time</title>
-    <link href="http://yahsin.me/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/"/>
-    <id>http://yahsin.me/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/</id>
-    <published>2020-08-04T18:03:44.000Z</published>
-    <updated>2021-03-17T16:24:33.145Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/08/05/RadicalxChange-Taipei-Getting-Featured-as-a-Guest-on-a-Blockchain-Podcast/rxc_podcast_feature_01.png&quot; /&gt;&lt;figcaption&gt;RadicalxChange Taipei chapter leaders CC &amp; Yahsin were featured as guests on Astro Hsu&#39;s BlockTrend podcast.&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;Interview notes I prepared a day prior to the Friday (7&amp;#x2F;24) podcast interview. 以下內容是訪談前一天準備的講稿，當天錄音時並沒有照著這些預先準備的內容講，所以這篇內容單純提供給各位當背景資料參考。&lt;/p&gt;
-&lt;figure&gt;&lt;img</summary>
         
       
     
