@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-02-01T10:26:45.224Z</updated>
+  <updated>2024-02-01T10:33:08.204Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yahsin.me/2024/02/01/JS-While-Loop/"/>
     <id>http://yahsin.me/2024/02/01/JS-While-Loop/</id>
     <published>2024-02-01T10:13:35.000Z</published>
-    <updated>2024-02-01T10:26:45.224Z</updated>
+    <updated>2024-02-01T10:33:08.204Z</updated>
     
     
       
@@ -40,7 +40,7 @@
     
     
     
-    <category term="JavaScript, Code, Notes, Web" scheme="http://yahsin.me/tags/JavaScript-Code-Notes-Web/"/>
+    <category term="JavaScript basics" scheme="http://yahsin.me/tags/JavaScript-basics/"/>
     
   </entry>
   
@@ -49,7 +49,7 @@
     <link href="http://yahsin.me/2024/01/30/Jan-books/"/>
     <id>http://yahsin.me/2024/01/30/Jan-books/</id>
     <published>2024-01-30T14:05:14.000Z</published>
-    <updated>2024-01-30T14:47:46.015Z</updated>
+    <updated>2024-02-01T10:29:27.716Z</updated>
     
     
       
@@ -63,6 +63,8 @@
     
     
     
+    
+    <category term="books" scheme="http://yahsin.me/tags/books/"/>
     
   </entry>
   
@@ -120,7 +122,7 @@
     <link href="http://yahsin.me/2023/08/30/Spain/"/>
     <id>http://yahsin.me/2023/08/30/Spain/</id>
     <published>2023-08-30T08:06:27.000Z</published>
-    <updated>2023-08-30T09:03:31.277Z</updated>
+    <updated>2024-02-01T10:31:43.259Z</updated>
     
     
       
@@ -134,7 +136,7 @@
     
     
     
-    <category term="travel reflections, spain, culture" scheme="http://yahsin.me/tags/travel-reflections-spain-culture/"/>
+    <category term="travel, spain, culture" scheme="http://yahsin.me/tags/travel-spain-culture/"/>
     
   </entry>
   
@@ -143,7 +145,7 @@
     <link href="http://yahsin.me/2023/05/03/April-books/"/>
     <id>http://yahsin.me/2023/05/03/April-books/</id>
     <published>2023-05-03T10:16:05.000Z</published>
-    <updated>2023-05-03T10:40:47.772Z</updated>
+    <updated>2024-02-01T10:31:33.290Z</updated>
     
     
       
@@ -157,6 +159,8 @@
     
     
     
+    
+    <category term="books" scheme="http://yahsin.me/tags/books/"/>
     
   </entry>
   
@@ -189,7 +193,7 @@
     <link href="http://yahsin.me/2023/02/15/Feb-books/"/>
     <id>http://yahsin.me/2023/02/15/Feb-books/</id>
     <published>2023-02-15T06:10:24.000Z</published>
-    <updated>2023-02-15T14:08:39.257Z</updated>
+    <updated>2024-02-01T10:30:00.422Z</updated>
     
     
       
@@ -204,6 +208,8 @@
     
     
     
+    <category term="books" scheme="http://yahsin.me/tags/books/"/>
+    
   </entry>
   
   <entry>
@@ -211,7 +217,7 @@
     <link href="http://yahsin.me/2023/02/08/Hayek-Serfdom-book-notes/"/>
     <id>http://yahsin.me/2023/02/08/Hayek-Serfdom-book-notes/</id>
     <published>2023-02-08T15:16:48.000Z</published>
-    <updated>2023-02-15T14:13:52.062Z</updated>
+    <updated>2024-02-01T10:31:14.458Z</updated>
     
     
       
@@ -227,7 +233,7 @@
     
     
     
-    <category term="Classics, Books, Lit, Notes, Politics" scheme="http://yahsin.me/tags/Classics-Books-Lit-Notes-Politics/"/>
+    <category term="classics, books, politics" scheme="http://yahsin.me/tags/classics-books-politics/"/>
     
   </entry>
   
@@ -259,7 +265,7 @@
     <link href="http://yahsin.me/2022/11/26/nov-book-edouard-louis-combats/"/>
     <id>http://yahsin.me/2022/11/26/nov-book-edouard-louis-combats/</id>
     <published>2022-11-26T04:28:35.000Z</published>
-    <updated>2022-12-12T14:22:51.277Z</updated>
+    <updated>2024-02-01T10:30:06.098Z</updated>
     
     
       
@@ -274,7 +280,7 @@
     
     
     
-    <category term="nov-books" scheme="http://yahsin.me/tags/nov-books/"/>
+    <category term="nov-books, books" scheme="http://yahsin.me/tags/nov-books-books/"/>
     
   </entry>
   
@@ -454,7 +460,7 @@
     <link href="http://yahsin.me/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/"/>
     <id>http://yahsin.me/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/</id>
     <published>2020-09-13T17:04:22.000Z</published>
-    <updated>2021-03-17T16:24:33.159Z</updated>
+    <updated>2024-02-01T10:30:27.916Z</updated>
     
     
       
@@ -470,6 +476,8 @@
     
     
     
+    
+    <category term="panel, speech, notes, taiwan" scheme="http://yahsin.me/tags/panel-speech-notes-taiwan/"/>
     
   </entry>
   
