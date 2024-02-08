@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-02-01T10:33:08.204Z</updated>
+  <updated>2024-02-08T11:09:02.185Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Looping through an Array</title>
+    <link href="http://yahsin.me/2024/02/08/looping/"/>
+    <id>http://yahsin.me/2024/02/08/looping/</id>
+    <published>2024-02-08T10:56:56.000Z</published>
+    <updated>2024-02-08T11:09:02.185Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Looping-through-an-Array&quot;&gt;&lt;a href=&quot;#Looping-through-an-Array&quot; class=&quot;headerlink&quot; title=&quot;Looping through an Array&quot;&gt;&lt;/a&gt;Looping through an Array&lt;/h2&gt;&lt;p&gt;Looping through an Array&lt;br&gt;Go through each value of an array one by one&lt;br&gt;Do something with each value&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;const todoList = [
+&amp;#39;make dinner&amp;#39;,
+&amp;#39;make coffee&amp;#39;,
+&amp;#39;watch youtube&amp;#39;
+];
+
+
+for (let i = 0; i &amp;lt; todoList.length; i++) &amp;#123;
+const value = todoList[i];
+console.log(value);
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Run</summary>
+        
+      
+    
+    
+    
+    
+    <category term="JavaScript basics" scheme="http://yahsin.me/tags/JavaScript-basics/"/>
+    
+  </entry>
   
   <entry>
     <title>JS While Loop</title>
@@ -437,7 +473,7 @@
     <link href="http://yahsin.me/2021/04/14/Qu-est-ce-que-tu-fais-comme-travail/"/>
     <id>http://yahsin.me/2021/04/14/Qu-est-ce-que-tu-fais-comme-travail/</id>
     <published>2021-04-13T17:59:49.000Z</published>
-    <updated>2022-01-03T09:46:18.788Z</updated>
+    <updated>2024-02-01T11:51:52.965Z</updated>
     
     
       
@@ -452,6 +488,8 @@
     
     
     
+    
+    <category term="french" scheme="http://yahsin.me/tags/french/"/>
     
   </entry>
   
@@ -478,28 +516,6 @@
     
     
     <category term="panel, speech, notes, taiwan" scheme="http://yahsin.me/tags/panel-speech-notes-taiwan/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>8 Days in Palo Alto, California: Stanford Blockchain Conference, Computer History Museum, Shoreline Lake Park, Apple Infinite Loop, and More!</title>
-    <link href="http://yahsin.me/2020/08/07/8-Days-in-Palo-Alto-California/"/>
-    <id>http://yahsin.me/2020/08/07/8-Days-in-Palo-Alto-California/</id>
-    <published>2020-08-07T15:19:44.000Z</published>
-    <updated>2021-03-17T16:24:33.149Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;I haven’t been abroad since April because of COVID-19. Not too long, but somehow it feels like a lifetime. I was thinking of the U.S. recently for some reason, I don’t know why I miss my two weeks in the U.S. so much. I thought I just needed to get the story out, or I’ll never come back to it; hence never write it. I’ve got to keep writing – there’s no other way! How else would you reflect yourself?&lt;/p&gt;
-&lt;figure&gt;&lt;img src=&quot;/2020/08/07/8-Days-in-Palo-Alto-California/ca_usa_01.jpg&quot;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
