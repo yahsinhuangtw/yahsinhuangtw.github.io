@@ -439,9 +439,9 @@ body td {
   src: local("Meslo LG S"), url("../lib/meslo-LG/MesloLGS-Regular.ttf") format("truetype");
 }
 @font-face {
-  font-style: serif;
-  font-family: "Rasa";
-  src: local("Rasa"), url("https://fonts.googleapis.com/css2?family=Rasa&display=swap");
+  font-style: sans-serif;
+  font-family: "Inter";
+  src: local("Inter"), url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
 }
 *,
 *:before,
@@ -463,7 +463,7 @@ body {
   font-display: swap;
   font-weight: 400;
   font-size: 14px;
-  font-family: "Rasa", serif;
+  font-family: "Inter", sans-serif;
   line-height: 1.725;
   text-rendering: geometricPrecision;
   flex: 1;
@@ -1406,7 +1406,7 @@ article .content .caption {
   font-display: swap;
   font-weight: 400;
   font-size: 11.200000000000001px;
-  font-family: "Rasa", serif;
+  font-family: "Inter", sans-serif;
   line-height: 1.725;
   text-rendering: geometricPrecision;
   text-align: center;
