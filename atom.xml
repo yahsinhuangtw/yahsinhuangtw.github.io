@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-02-08T11:10:26.762Z</updated>
+  <updated>2024-04-30T09:31:05.884Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Joan Didion’s 2011 Memoir, Blue Nights</title>
+    <link href="http://yahsin.me/2024/04/30/Nights/"/>
+    <id>http://yahsin.me/2024/04/30/Nights/</id>
+    <published>2024-04-30T09:28:50.000Z</published>
+    <updated>2024-04-30T09:31:05.884Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Joan Didion’s 2011 Memoir, Blue Nights&lt;/p&gt;
+&lt;p&gt;I recently finished reading Joan Didion’s “Blue Nights,” a book about the death of her daughter Quintana Roo. For the past month, every night I would read a few pages before I fall asleep. Towards the end of the book, it was devastating; a few passages made me cry. &lt;/p&gt;
+&lt;p&gt;For some reason I might be the type of person who is quick to tears — I may be a highly sensitive person; I wept several times while reading Joan Didion’s intensely personal</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Memoir, Essays, Didion" scheme="http://yahsin.me/tags/Memoir-Essays-Didion/"/>
+    
+  </entry>
   
   <entry>
     <title>Looping through an Array</title>
@@ -490,32 +515,6 @@ console.log(value);
     
     
     <category term="french" scheme="http://yahsin.me/tags/french/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The Script I Prepared for RxC in the Wild: Social Upgrades in Colorado and Taiwan Online Panel Event Last Month</title>
-    <link href="http://yahsin.me/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/"/>
-    <id>http://yahsin.me/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/</id>
-    <published>2020-09-13T17:04:22.000Z</published>
-    <updated>2024-02-01T10:30:27.916Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;figure&gt;&lt;img src=&quot;/2020/09/14/The-Script-I-Prepared-for-RxC-in-the-Wild-Social-Upgrades-in-Colorado-and-Taiwan-Online-Panel-Event-Last-Month/rxcwild_event_feature.png&quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;Below is the script that I prepared for my 10-minute presentation at a recent RadicalxChange online panel event. &lt;/p&gt;
-&lt;p&gt;Organized by the &lt;a href=&quot;https://www.radicalxchange.org/&quot;&gt;RadicalxChange Foundation&lt;/a&gt;, the 1-hour event, “RadicalxChange in the Wild: Social Upgrades in Colorado and Taiwan,” held on</summary>
-        
-      
-    
-    
-    
-    
-    <category term="panel, speech, notes, taiwan" scheme="http://yahsin.me/tags/panel-speech-notes-taiwan/"/>
     
   </entry>
   
