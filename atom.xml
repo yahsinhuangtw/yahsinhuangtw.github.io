@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-05-01T08:23:00.527Z</updated>
+  <updated>2024-05-01T10:23:19.886Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notes from a French language class</title>
+    <link href="http://yahsin.me/2024/05/01/French-class-notes/"/>
+    <id>http://yahsin.me/2024/05/01/French-class-notes/</id>
+    <published>2024-05-01T10:14:37.000Z</published>
+    <updated>2024-05-01T10:23:19.886Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Some notes I jotted down during a 1.5-hour French language class yesterday.&lt;/p&gt;
+&lt;h3 id=&quot;Depasser-le-sentiment-de-frustration&quot;&gt;&lt;a href=&quot;#Depasser-le-sentiment-de-frustration&quot; class=&quot;headerlink&quot; title=&quot;Dépasser le sentiment de frustration&quot;&gt;&lt;/a&gt;Dépasser le sentiment de frustration&lt;/h3&gt;&lt;p&gt;Comment dépasser le sentiment de frustration ?&lt;/p&gt;
+&lt;p&gt;Dépasser (exceed&amp;#x2F;overcome&amp;#x2F;surpass)&lt;/p&gt;
+&lt;p&gt;Dépasser le sentiment d’impuissance (Overcoming the feeling of helplessness)&lt;br&gt;Dépasser ses</summary>
+        
+      
+    
+    
+    
+    
+    <category term="French, Language, Dépasser, Venir, Aller" scheme="http://yahsin.me/tags/French-Language-Depasser-Venir-Aller/"/>
+    
+  </entry>
   
   <entry>
     <title>Joan Didion’s 2011 Memoir, Blue Nights</title>
@@ -489,31 +515,6 @@ console.log(value);
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Qu&#39;est-ce que tu fais comme travail?</title>
-    <link href="http://yahsin.me/2021/04/14/Qu-est-ce-que-tu-fais-comme-travail/"/>
-    <id>http://yahsin.me/2021/04/14/Qu-est-ce-que-tu-fais-comme-travail/</id>
-    <published>2021-04-13T17:59:49.000Z</published>
-    <updated>2024-02-01T11:51:52.965Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Qu’est-ce-que-tu-fais-comme-travail&quot;&gt;&lt;a href=&quot;#Qu’est-ce-que-tu-fais-comme-travail&quot; class=&quot;headerlink&quot; title=&quot;Qu’est-ce que tu fais comme travail?&quot;&gt;&lt;/a&gt;Qu’est-ce que tu fais comme travail?&lt;/h2&gt;&lt;p&gt;Bonjour, je m’appelle Yahsin. Enchantée!&lt;/p&gt;
-&lt;p&gt;Je suis directrice des opérations dans une startup. Elle s’appelle &lt;a href=&quot;https://hashcloak.com/&quot;&gt;HashCloak&lt;/a&gt;. C’est une startup basée à Toronto au Canada.&lt;/p&gt;
-&lt;p&gt;C’est une société de logiciels qui fait beaucoup de conseil en recherche et</summary>
-        
-      
-    
-    
-    
-    
-    <category term="french" scheme="http://yahsin.me/tags/french/"/>
     
   </entry>
   
