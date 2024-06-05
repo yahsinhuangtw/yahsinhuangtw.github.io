@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-05-01T10:23:19.886Z</updated>
+  <updated>2024-06-05T11:50:18.331Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Moi me Présente : Entre Technologie, Musique et Nature</title>
+    <link href="http://yahsin.me/2024/06/05/moi-me-pr%C3%A9sente/"/>
+    <id>http://yahsin.me/2024/06/05/moi-me-pr%C3%A9sente/</id>
+    <published>2024-06-05T11:45:06.000Z</published>
+    <updated>2024-06-05T11:50:18.331Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Bonjour à tous ! Je m’appelle Yahsin, c’est mon prénom chinois. Vous pouvez m’appeler Louise, qui est mon prénom français, si vous le souhaitez. J’ai choisi ce prénom pour sa sonorité douce et élégante. Actuellement, j’habite à Tainan, une ville située au sud de Taiwan. Avant cela, j’ai grandi à Taipei, la capitale de Taiwan.&lt;/p&gt;
+&lt;h3 id=&quot;Les-sujets-qui-m’interessent-le-plus-dans-mon-travail&quot;&gt;&lt;a href=&quot;#Les-sujets-qui-m’interessent-le-plus-dans-mon-travail&quot; class=&quot;headerlink&quot; title=&quot;Les sujets</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Notes from a French language class</title>
@@ -492,29 +514,6 @@ console.log(value);
     <category term="Europe" scheme="http://yahsin.me/tags/Europe/"/>
     
     <category term="Culture" scheme="http://yahsin.me/tags/Culture/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Using MPC to Help Achieve Blockchain Privacy</title>
-    <link href="http://yahsin.me/2021/11/19/Using-MPC-to-Help-Achieve-Blockchain-Privacy/"/>
-    <id>http://yahsin.me/2021/11/19/Using-MPC-to-Help-Achieve-Blockchain-Privacy/</id>
-    <published>2021-11-18T16:37:55.000Z</published>
-    <updated>2021-11-18T17:15:58.269Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;This post answers some of the most commonly asked questions about using multi-party computation (MPC) in blockchains.&lt;/p&gt;
-&lt;h2 id=&quot;What-is-MPC&quot;&gt;&lt;a href=&quot;#What-is-MPC&quot; class=&quot;headerlink&quot; title=&quot;What is MPC?&quot;&gt;&lt;/a&gt;What is MPC?&lt;/h2&gt;&lt;p&gt;Multi-party computation (MPC) is a cryptographic protocol that does a joint computation involving multiple parties over their inputs while keeping those inputs private.&lt;/p&gt;
-&lt;p&gt;A famous example of MPC is &lt;a</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
