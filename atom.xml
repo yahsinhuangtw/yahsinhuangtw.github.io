@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-09-06T09:22:00.965Z</updated>
+  <updated>2024-09-06T10:14:14.787Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -17,21 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>zkmopro-testing</title>
-    <link href="http://yahsin.me/2024/09/06/zkmopro-testing/"/>
-    <id>http://yahsin.me/2024/09/06/zkmopro-testing/</id>
-    <published>2024-09-06T09:18:48.000Z</published>
-    <updated>2024-09-06T09:22:00.965Z</updated>
+    <title>Zkmopro: Experimentation and Testing with Zero-Knowledge Proofs in Android Development</title>
+    <link href="http://yahsin.me/2024/08/27/zkmopro-testing/"/>
+    <id>http://yahsin.me/2024/08/27/zkmopro-testing/</id>
+    <published>2024-08-27T10:48:00.000Z</published>
+    <updated>2024-09-06T10:14:14.787Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Title&lt;br&gt;zkmopro: Experimentation and Testing with Zero-Knowledge Proofs in Android Development&lt;/p&gt;
-&lt;p&gt;到底 zkmopro 的意義是什麼？我想了解一下，所以今天跟著 zkmopro android setup 的操作教學，玩了一個指令 cargo run –bin android。它會建立新資料夾叫 MoproAndroidBindings。這個 zkmopro 套件最主要的目的是在手機 app 開發過程中可以幫你處理好 zk generate proof 的部分。&lt;/p&gt;
-&lt;p&gt;例如，想開發 Android 的 app，又想在 app 設計裡加入 zk 產生 proof 的功能，推薦玩 zkmopro 最近這幾個月才新端出來的軟體套件。如果 ZK 應用想在手機上跑的話，需要把 prover 的程式碼辛苦地搬到 Android 上執行。今天有 zkmopro 套件，就可以省掉很多 binding 和轉換程式碼的麻煩。&lt;/p&gt;
-&lt;p&gt;結論，zkmopro</summary>
+    <summary type="html">&lt;p&gt;Zkmopro’s GitHub repo: &lt;a href=&quot;https://github.com/zkmopro&quot;&gt;https://github.com/zkmopro&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Understanding-zkmopro&quot;&gt;&lt;a href=&quot;#Understanding-zkmopro&quot; class=&quot;headerlink&quot; title=&quot;Understanding zkmopro&quot;&gt;&lt;/a&gt;Understanding zkmopro&lt;/h3&gt;&lt;p&gt;Today I followed the zkmopro Android setup tutorial and ran the command &lt;code&gt;cargo run --bin android&lt;/code&gt;. This creates a new folder called MoproAndroidBindings. The purpose of the zkmopro package is to handle the zk generate proof part during mobile</summary>
         
       
     
