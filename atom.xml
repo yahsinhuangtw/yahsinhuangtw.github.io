@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-09-06T10:14:14.787Z</updated>
+  <updated>2024-12-13T09:17:54.203Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Want to Obtain Base Sepolia Testnet Tokens? How Hard Could It Be?</title>
+    <link href="http://yahsin.me/2024/12/13/testnet/"/>
+    <id>http://yahsin.me/2024/12/13/testnet/</id>
+    <published>2024-12-13T09:04:34.000Z</published>
+    <updated>2024-12-13T09:17:54.203Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;Navigating-the-Challenges-of-Deploying-NFT-Contracts-on-Base-Sepolia-Testnet&quot;&gt;&lt;a href=&quot;#Navigating-the-Challenges-of-Deploying-NFT-Contracts-on-Base-Sepolia-Testnet&quot; class=&quot;headerlink&quot; title=&quot;Navigating the Challenges of Deploying NFT Contracts on Base Sepolia Testnet&quot;&gt;&lt;/a&gt;Navigating the Challenges of Deploying NFT Contracts on Base Sepolia Testnet&lt;/h3&gt;&lt;p&gt;This blog post shares my experience in tackling the complexities of deploying a simple NFT contract.&lt;/p&gt;
+&lt;p&gt;Deploying a simple NFT</summary>
+        
+      
+    
+    
+    
+    
+    <category term="smart contracts, base sepolia testnet, testnet tokens, web3" scheme="http://yahsin.me/tags/smart-contracts-base-sepolia-testnet-testnet-tokens-web3/"/>
+    
+  </entry>
   
   <entry>
     <title>Zkmopro: Experimentation and Testing with Zero-Knowledge Proofs in Android Development</title>
@@ -481,30 +505,6 @@ console.log(value);
     
     
     <category term="november" scheme="http://yahsin.me/tags/november/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Goodbye October! Devcon Swag Fashion, CS50 Lecture 2 Arrays, Problem Sets</title>
-    <link href="http://yahsin.me/2022/11/07/October-Devcon-Swag-CS50/"/>
-    <id>http://yahsin.me/2022/11/07/October-Devcon-Swag-CS50/</id>
-    <published>2022-11-07T12:12:22.000Z</published>
-    <updated>2022-11-07T12:32:05.063Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Devcon was held in mid October this year. The Bogotá, Colombia Edition. I wasn’t there but I did get some swag. Among the stuff I got, a few items stood out to me. Crypto swag fashion item number one. A black cap. With a beautiful blue and purple Ethereum logo on it. I absolutely love it. I’m wearing it every day now. It’s so perfect for Autumn days in Asia.&lt;/p&gt;
-&lt;p&gt;Crypto swag fashion item number one. A lovely black tote bag. It came from Scroll (a startup that builds native zkEVM layer 2</summary>
-        
-      
-    
-    
-    
-    
-    <category term="octupdate" scheme="http://yahsin.me/tags/octupdate/"/>
     
   </entry>
   
