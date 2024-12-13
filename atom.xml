@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-12-13T09:57:10.208Z</updated>
+  <updated>2024-12-13T10:06:15.188Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yahsin.me/2024/12/13/testnet/"/>
     <id>http://yahsin.me/2024/12/13/testnet/</id>
     <published>2024-12-13T09:04:34.000Z</published>
-    <updated>2024-12-13T09:57:10.208Z</updated>
+    <updated>2024-12-13T10:06:15.188Z</updated>
     
     
       
@@ -36,7 +36,13 @@
     
     
     
-    <category term="smart contracts, base sepolia testnet, testnet tokens, web3" scheme="http://yahsin.me/tags/smart-contracts-base-sepolia-testnet-testnet-tokens-web3/"/>
+    <category term="smart contracts" scheme="http://yahsin.me/tags/smart-contracts/"/>
+    
+    <category term="base sepolia testnet" scheme="http://yahsin.me/tags/base-sepolia-testnet/"/>
+    
+    <category term="testnet tokens" scheme="http://yahsin.me/tags/testnet-tokens/"/>
+    
+    <category term="web3" scheme="http://yahsin.me/tags/web3/"/>
     
   </entry>
   
@@ -91,7 +97,7 @@
     <link href="http://yahsin.me/2024/05/01/French-class-notes/"/>
     <id>http://yahsin.me/2024/05/01/French-class-notes/</id>
     <published>2024-05-01T10:14:37.000Z</published>
-    <updated>2024-05-01T10:23:19.886Z</updated>
+    <updated>2024-12-13T10:06:49.706Z</updated>
     
     
       
@@ -108,7 +114,15 @@
     
     
     
-    <category term="French, Language, Dépasser, Venir, Aller" scheme="http://yahsin.me/tags/French-Language-Depasser-Venir-Aller/"/>
+    <category term="French" scheme="http://yahsin.me/tags/French/"/>
+    
+    <category term="Language" scheme="http://yahsin.me/tags/Language/"/>
+    
+    <category term="Dépasser" scheme="http://yahsin.me/tags/Depasser/"/>
+    
+    <category term="Venir" scheme="http://yahsin.me/tags/Venir/"/>
+    
+    <category term="Aller" scheme="http://yahsin.me/tags/Aller/"/>
     
   </entry>
   
@@ -117,7 +131,7 @@
     <link href="http://yahsin.me/2024/04/30/Didion-Blue-Nights/"/>
     <id>http://yahsin.me/2024/04/30/Didion-Blue-Nights/</id>
     <published>2024-04-30T09:28:50.000Z</published>
-    <updated>2024-05-01T08:23:00.527Z</updated>
+    <updated>2024-12-13T10:06:58.278Z</updated>
     
     
       
@@ -132,7 +146,11 @@
     
     
     
-    <category term="Memoir, Essays, Didion" scheme="http://yahsin.me/tags/Memoir-Essays-Didion/"/>
+    <category term="Memoir" scheme="http://yahsin.me/tags/Memoir/"/>
+    
+    <category term="Essays" scheme="http://yahsin.me/tags/Essays/"/>
+    
+    <category term="Didion" scheme="http://yahsin.me/tags/Didion/"/>
     
   </entry>
   
@@ -229,7 +247,7 @@ console.log(value);
     <link href="http://yahsin.me/2023/10/10/Cal-Newport-269-notes/"/>
     <id>http://yahsin.me/2023/10/10/Cal-Newport-269-notes/</id>
     <published>2023-10-10T14:40:31.000Z</published>
-    <updated>2023-10-10T14:42:56.325Z</updated>
+    <updated>2024-12-13T10:07:25.033Z</updated>
     
     
       
@@ -244,7 +262,13 @@ console.log(value);
     
     
     
-    <category term="newport, podcast, notes, deeplife" scheme="http://yahsin.me/tags/newport-podcast-notes-deeplife/"/>
+    <category term="newport" scheme="http://yahsin.me/tags/newport/"/>
+    
+    <category term="podcast" scheme="http://yahsin.me/tags/podcast/"/>
+    
+    <category term="notes" scheme="http://yahsin.me/tags/notes/"/>
+    
+    <category term="deeplife" scheme="http://yahsin.me/tags/deeplife/"/>
     
   </entry>
   
@@ -253,7 +277,7 @@ console.log(value);
     <link href="http://yahsin.me/2023/10/05/Tapie-Class-Act-Netflix/"/>
     <id>http://yahsin.me/2023/10/05/Tapie-Class-Act-Netflix/</id>
     <published>2023-10-05T08:24:05.000Z</published>
-    <updated>2023-10-05T08:32:06.832Z</updated>
+    <updated>2024-12-13T10:07:21.842Z</updated>
     
     
       
@@ -269,7 +293,17 @@ console.log(value);
     
     
     
-    <category term="movie, film, tv series, netflix, tapie, class act" scheme="http://yahsin.me/tags/movie-film-tv-series-netflix-tapie-class-act/"/>
+    <category term="movie" scheme="http://yahsin.me/tags/movie/"/>
+    
+    <category term="film" scheme="http://yahsin.me/tags/film/"/>
+    
+    <category term="tv series" scheme="http://yahsin.me/tags/tv-series/"/>
+    
+    <category term="netflix" scheme="http://yahsin.me/tags/netflix/"/>
+    
+    <category term="tapie" scheme="http://yahsin.me/tags/tapie/"/>
+    
+    <category term="class act" scheme="http://yahsin.me/tags/class-act/"/>
     
   </entry>
   
