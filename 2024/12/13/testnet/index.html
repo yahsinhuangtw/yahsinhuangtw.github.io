@@ -14,7 +14,7 @@
 <meta property="og:description" content="Navigating the Challenges of Deploying NFT Contracts on Base Sepolia TestnetThis blog post shares my experience in tackling the complexities of deploying a simple NFT contract. Deploying a simple NFT">
 <meta property="og:locale">
 <meta property="article:published_time" content="2024-12-13T09:04:34.000Z">
-<meta property="article:modified_time" content="2024-12-13T09:17:54.203Z">
+<meta property="article:modified_time" content="2024-12-13T09:28:44.421Z">
 <meta property="article:author" content="Yahsin Huang">
 <meta property="article:tag" content="smart contracts, base sepolia testnet, testnet tokens, web3">
 <meta name="twitter:card" content="summary">
@@ -191,6 +191,8 @@
 <p>To obtain Base Sepolia testnet tokens, I planned to use an existing address that I had previously used for another game project on MetaMask (which I referred to as the “Game address”). This Game address already had some ETH on the mainnet, which I hoped would allow me to successfully acquire Base Sepolia testnet tokens. </p>
 <p>The idea was that once I obtained some testnet tokens, I could easily transfer them to both the simulated user address in Coinbase Smart Wallet and the contract deployer address in Foundry Wallet, as both needed funds to facilitate transactions.</p>
 <p>Unfortunately, this plan failed, and I wanted to document this experience.</p>
+<img src="" />
+
 <p>The Game address on my MetaMask wallet successfully claimed 0.1 BETH on the Base Sepolia testnet. The problem occurred when I tried to send some BETH to the simulated user address; this transaction failed with an internal JSON-RPC error message. </p>
 <p>I didn’t get to the bottom of this error. It was most likely a technical issue with MetaMask or the Base Sepolia RPC endpoint. It’s hard for me to determine whose fault it was or how to debug the situation. I decided to leave it as is and look for other solutions.</p>
 <p>Instead of sending BETH funds from the MetaMask game address to the Coinbase Smart Wallet simulated user address, I chose another approach—I wanted to use the Foundry deployer address to obtain BETH. I used the MetaMask game address to send a small amount of ETH to the Foundry deployer address so that it would become eligible to claim BETH.</p>
