@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2024-12-13T10:06:15.188Z</updated>
+  <updated>2024-12-20T09:55:09.066Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexadecimal in Ethereum</title>
+    <link href="http://yahsin.me/2024/12/20/hexadecimal/"/>
+    <id>http://yahsin.me/2024/12/20/hexadecimal/</id>
+    <published>2024-12-20T09:34:45.000Z</published>
+    <updated>2024-12-20T09:55:09.066Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Writer’s Note: This article was rewritten, further edited, and partially translated from one of my 30 published articles from September and October 2024. These articles were created as part of a consecutive 30-day technology writing challenge on one of Taiwan’s most popular web2 media platforms. The original articles were written in Traditional Chinese. Here’s a link to one article that serves as the primary source for this piece: (&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexadecimal" scheme="http://yahsin.me/tags/hexadecimal/"/>
+    
+    <category term="decimal" scheme="http://yahsin.me/tags/decimal/"/>
+    
+    <category term="convert" scheme="http://yahsin.me/tags/convert/"/>
+    
+    <category term="number systems" scheme="http://yahsin.me/tags/number-systems/"/>
+    
+    <category term="ethereum" scheme="http://yahsin.me/tags/ethereum/"/>
+    
+    <category term="EVM opcodes" scheme="http://yahsin.me/tags/EVM-opcodes/"/>
+    
+  </entry>
   
   <entry>
     <title>Want to Obtain Base Sepolia Testnet Tokens? How Hard Could It Be?</title>
@@ -516,29 +549,6 @@ console.log(value);
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>Hello November | Do you still read blogs?</title>
-    <link href="http://yahsin.me/2022/11/13/November-blogs-still-a-thing/"/>
-    <id>http://yahsin.me/2022/11/13/November-blogs-still-a-thing/</id>
-    <published>2022-11-13T06:26:14.000Z</published>
-    <updated>2022-11-13T06:28:01.880Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Do-you-still-read-blogs&quot;&gt;&lt;a href=&quot;#Do-you-still-read-blogs&quot; class=&quot;headerlink&quot; title=&quot;Do you still read blogs?&quot;&gt;&lt;/a&gt;Do you still read blogs?&lt;/h2&gt;&lt;p&gt;I still read blogs. In 2022. In fact I read blogs regularly, at least a few times a week. I browse headings and sometimes subheadings of Vitalik’s blog &lt;a href=&quot;https://vitalik.ca/&quot;&gt;https://vitalik.ca/&lt;/a&gt; and Dankrad’s blog &lt;a href=&quot;https://dankradfeist.de/&quot;&gt;https://dankradfeist.de/&lt;/a&gt;. I check out what flyinglimao has been up to by</summary>
-        
-      
-    
-    
-    
-    
-    <category term="november" scheme="http://yahsin.me/tags/november/"/>
     
   </entry>
   
