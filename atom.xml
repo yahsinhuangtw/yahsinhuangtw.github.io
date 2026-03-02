@@ -6,7 +6,7 @@
   <link href="http://yahsin.me/atom.xml" rel="self"/>
   
   <link href="http://yahsin.me/"/>
-  <updated>2025-08-20T08:35:43.591Z</updated>
+  <updated>2026-03-02T04:30:47.102Z</updated>
   <id>http://yahsin.me/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日本語で自己紹介</title>
+    <link href="http://yahsin.me/2026/03/02/jp-intro/"/>
+    <id>http://yahsin.me/2026/03/02/jp-intro/</id>
+    <published>2026-03-02T04:23:05.000Z</published>
+    <updated>2026-03-02T04:30:47.102Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;はじめまして。&lt;br&gt;Yahsin です。&lt;br&gt;台湾出身です。&lt;/p&gt;
+&lt;p&gt;Ya (雅) means elegant, refined, and graceful.&lt;br&gt;Hsin (信) means trust, faith, and</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Japanese" scheme="http://yahsin.me/tags/Japanese/"/>
+    
+    <category term="Intro" scheme="http://yahsin.me/tags/Intro/"/>
+    
+    <category term="日本語" scheme="http://yahsin.me/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/"/>
+    
+  </entry>
   
   <entry>
     <title>Reflections on Growth and Self-Discipline in Rob Henderson’s Troubled</title>
@@ -532,29 +560,6 @@ console.log(value);
     
     
     <category term="nov-books, books" scheme="http://yahsin.me/tags/nov-books-books/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>What I’ve Been Up To Lately - Solidity workshop, CS50, Collège de France lectures</title>
-    <link href="http://yahsin.me/2022/11/17/solidity-workshops/"/>
-    <id>http://yahsin.me/2022/11/17/solidity-workshops/</id>
-    <published>2022-11-17T09:49:49.000Z</published>
-    <updated>2022-11-17T10:06:03.633Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;What-I’ve-been-up-to-lately&quot;&gt;&lt;a href=&quot;#What-I’ve-been-up-to-lately&quot; class=&quot;headerlink&quot; title=&quot;What I’ve been up to lately&quot;&gt;&lt;/a&gt;What I’ve been up to lately&lt;/h2&gt;&lt;p&gt;This past week I have been quite busied with meeting old and new folks at random coffee shops and restaurants. I’m curious to hear what everyone has been up to. Also, I’ve been a little obsessed with discovering what’s going on with CS50 course, Solidity smart contract programming stuff in general. Watched way to many YouTube</summary>
-        
-      
-    
-    
-    
-    
-    <category term="nov-solidity" scheme="http://yahsin.me/tags/nov-solidity/"/>
     
   </entry>
   
