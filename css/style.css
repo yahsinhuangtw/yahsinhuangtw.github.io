@@ -1047,6 +1047,9 @@ body {
     display: none;
   }
 }
+#about p {
+  font-size: 0.85em;
+}
 .post-list {
   padding: 0;
 }
